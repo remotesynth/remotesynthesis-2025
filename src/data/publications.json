@@ -1,0 +1,873 @@
+[
+  {
+    "publisher": "Manning",
+    "publications": [
+      {
+        "title": "The Jamstack Book",
+        "url": "https://www.manning.com/books/the-jamstack-book",
+        "coauthors": ["Raymond Camden"],
+        "type": "book"
+      }
+    ]
+  },
+  {
+    "publisher": "O'Reilly Media",
+    "publications": [
+      {
+        "title": "Operating Continuously",
+        "url": "https://www.oreilly.com/library/view/operating-continuously/9781098117283/",
+        "coauthors": ["Edith Harbaugh", "Cody DeArkland"],
+        "type": "book"
+      },
+      {
+        "title": "Static Site Generators - Modern Tools for Static Website Development",
+        "url": "http://www.oreilly.com/web-platform/free/static-site-generators.csp",
+        "type": "book"
+      },
+      {
+        "title": "Working with Static Sites",
+        "url": "http://shop.oreilly.com/product/0636920051879.do",
+        "coauthors": ["Raymond Camden"],
+        "type": "book"
+      }
+    ]
+  },
+  {
+    "publisher": "CSS Tricks",
+    "publications": [
+      {
+        "title": "5 Myths About Jamstack",
+        "url": "https://css-tricks.com/5-myths-about-jamstack/"
+      },
+      {
+        "title": "JAMstack CMSs Have Finally Grown Up!",
+        "url": "https://css-tricks.com/jamstack-cmss-have-finally-grown-up/"
+      },
+      {
+        "title": "What Really Makes a Static Site Generator?",
+        "url": "https://css-tricks.com/really-makes-static-site-generator/"
+      }
+    ]
+  },
+  {
+    "publisher": "AWS Blog",
+    "publications": [
+      {
+        "title": "Simple and Flexible SaaS Entitlement Management with LaunchDarkly",
+        "url": "https://aws.amazon.com/blogs/apn/simple-and-flexible-saas-entitlement-management-with-launchdarkly/"
+      }
+    ]
+  },
+  {
+    "publisher": "Heavybit Blog",
+    "publications": [
+      {
+        "title": "3 Lessons from 4 Years of Running Virtual Developer Events",
+        "url": "https://www.heavybit.com/library/blog/3-lessons-from-4-years-of-running-virtual-developer-events/"
+      }
+    ]
+  },
+  {
+    "publisher": "Developer Tech",
+    "publications": [
+      {
+        "title": "Five developer trends to watch in 2019",
+        "url": "https://www.developer-tech.com/news/2019/may/16/opinion-five-developer-trends-2019/"
+      }
+    ]
+  },
+  {
+    "publisher": "Computerworld AU",
+    "publications": [
+      {
+        "title": "Why tomorrow is the best time to be a developer",
+        "url": "https://www.computerworld.com.au/article/648617/why-tomorrow-best-time-developer/?fp=16&fpid=1"
+      }
+    ]
+  },
+  {
+    "publisher": "Bejamas Blog",
+    "publications": [
+      {
+        "title": "Understanding Rendering in the Jamstack",
+        "url": "https://bejamas.io/blog/understanding-rendering-in-the-jamstack/"
+      }
+    ]
+  },
+  {
+    "publisher": "Snipcart Blog",
+    "publications": [
+      {
+        "title": "Using Next.js with FaunaDB: How to Query the Database from Your App",
+        "url": "https://snipcart.com/blog/nextjs-faunadb"
+      },
+      {
+        "title": "Choosing the Best Static Site Generator for 2021",
+        "url": "https://snipcart.com/blog/choose-best-static-site-generator"
+      }
+    ]
+  },
+  {
+    "publisher": "Netlify Blog",
+    "publications": [
+      {
+        "title": "How to Use LaunchDarkly Feature Flags with Netlify",
+        "url": "https://www.netlify.com/blog/2021/10/27/how-to-use-launchdarkly-feature-flags-with-netlify/"
+      },
+      {
+        "title": "How to build a database-driven Jamstack site",
+        "url": "https://www.netlify.com/blog/2021/06/10/how-to-build-a-database-driven-jamstack-site/"
+      },
+      {
+        "title": "Form Handling with the JAMstack and Netlify",
+        "url": "https://www.netlify.com/blog/2017/09/19/form-handling-with-the-jamstack-and-netlify/"
+      }
+    ]
+  },
+  {
+    "publisher": "StepZen Blog",
+    "publications": [
+      {
+        "title": "What You Need to Know About GraphQL Directives",
+        "url": "https://stepzen.com/blog/graphql-directives"
+      },
+      {
+        "title": "Turning a REST API into GraphQL Using StepZen",
+        "url": "https://stepzen.com/blog/rest-to-graphql"
+      },
+      {
+        "title": "Creating a Developer Portfolio using Next.js, GraphQL, DEV and GitHub",
+        "url": "https://stepzen.com/blog/developer-portfolio"
+      },
+      {
+        "title": "Learn To Love Your Jamstack BFF",
+        "url": "https://stepzen.com/blog/learn-to-love-your-jamstack-bff"
+      },
+      {
+        "title": "Exploring JavaScript Client Libraries for GraphQL",
+        "url": "https://stepzen.com/blog/javascript-graphql-libraries"
+      },
+      {
+        "title": "GraphQL and the Jamstack",
+        "url": "https://stepzen.com/blog/graphql-and-the-jamstack"
+      },
+      {
+        "title": "Building Your First GraphQL API Using StepZen",
+        "url": "https://stepzen.com/blog/build-your-first-graphql-api"
+      },
+      {
+        "title": "Consuming GraphQL in Plain JavaScript",
+        "url": "https://stepzen.com/blog/consume-graphql-in-javascript"
+      },
+      {
+        "title": "How to Write GraphQL Queries",
+        "url": "https://stepzen.com/blog/how-to-write-graphql-queries"
+      }
+    ]
+  },
+  {
+    "publisher": "Stackbit Blog",
+    "publications": [
+      {
+        "title": "Own Your Content, Broaden Your Audience",
+        "url": "https://www.stackbit.com/blog/devto-stackbit/"
+      },
+      {
+        "title": "A Complete Guide to Netlify Forms",
+        "url": "https://www.stackbit.com/blog/complete-guide-netlify-forms/"
+      },
+      {
+        "title": "Adding a Mailing List to Your Gatsby Site",
+        "url": "https://www.stackbit.com/blog/jamstack-gatsby-mailchimp/"
+      },
+      {
+        "title": "Adding Search to Your Gatsby Site",
+        "url": "https://www.stackbit.com/blog/gatsby-search/"
+      },
+      {
+        "title": "Getting Started with Next.js for Jamstack Development",
+        "url": "https://www.stackbit.com/blog/getting-started-nextjs-sourcebit/"
+      },
+      {
+        "title": "4 Tips to Improve Your Stackbit Gatsby Site",
+        "url": "https://www.stackbit.com/blog/stackbit-gatsby-site-improvements/"
+      },
+      {
+        "title": "4 New Tools to Watch in the Jamstack Ecosystem",
+        "url": "https://www.stackbit.com/blog/4-new-jamstack-tools/"
+      },
+      {
+        "title": "What is Markdown and Why Does it Matter to the Jamstack?",
+        "url": "https://www.stackbit.com/blog/what-is-markdown/"
+      },
+      {
+        "title": "Understanding Content Modeling in a Headless World",
+        "url": "https://www.stackbit.com/blog/content-modeling-headless/"
+      },
+      {
+        "title": "What the Heck are Content Slugs and How Do I Use Them?",
+        "url": "https://www.stackbit.com/blog/what-is-a-content-slug/"
+      },
+      {
+        "title": "Advanced Hugo Template Tips and Tricks",
+        "url": "https://www.stackbit.com/blog/advanced-hugo-templates/"
+      },
+      {
+        "title": "Managing Content Relationships in Git-based Headless CMS",
+        "url": "https://www.stackbit.com/blog/git-based-cms-relationships/"
+      },
+      {
+        "title": "Building Documentation Sites with the JAMstack",
+        "url": "https://www.stackbit.com/blog/jamstack-documentation-sites/"
+      },
+      {
+        "title": "How to Choose Your Static Site Generator",
+        "url": "https://www.stackbit.com/blog/choosing-your-ssg/"
+      },
+      {
+        "title": "Best Practices for Working with the JAMstack and an API-based CMS",
+        "url": "https://www.stackbit.com/blog/jamstack-api-based-cms/"
+      },
+      {
+        "title": "Build Your First Sourcebit Plugin",
+        "url": "https://www.stackbit.com/blog/sourcebit-plugin/"
+      },
+      {
+        "title": "Getting Started with Ecommerce and the JAMstack",
+        "url": "https://www.stackbit.com/blog/ecommerce-jamstack/"
+      },
+      {
+        "title": "Data-driven JAMstack with Sourcebit",
+        "url": "https://www.stackbit.com/blog/data-driven-jamstack-sourcebit/"
+      },
+      {
+        "title": "3 Strategies for Migrating from Wordpress to JAMstack",
+        "url": "https://www.stackbit.com/blog/wordpress-to-jamstack/"
+      },
+      {
+        "title": "Build Your Own JAMstack API with Netlify Functions and Zapier Webhooks, Part 2",
+        "url": "https://www.stackbit.com/blog/jamstack-api-zapier-webhooks-2/"
+      },
+      {
+        "title": "Build Your Own JAMstack API with Netlify Functions and Zapier Webhooks, Part 1",
+        "url": "https://www.stackbit.com/blog/jamstack-api-zapier-webhooks-1/"
+      },
+      {
+        "title": "Creating a JAMstack Site with Open Authoring Using Netlify CMS",
+        "url": "https://www.stackbit.com/blog/open-authoring-netlifycms/"
+      },
+      {
+        "title": "15 JAMstack Resources You Need as a Web Developer",
+        "url": "https://www.stackbit.com/blog/15-jamstack-resources/"
+      },
+      {
+        "title": "Gating Content in JAMstack Sites",
+        "url": "https://www.stackbit.com/blog/gating-content-jamstack/"
+      }
+    ]
+  },
+  {
+    "publisher": "The Practical Developer",
+    "publications": [
+      {
+        "title": "4 Things Developers Take for Granted That Used to Be Really Hard",
+        "url": "https://dev.to/remotesynth/4-things-developers-take-for-granted-that-used-to-be-really-hard-2fd3"
+      }
+    ]
+  },
+  {
+    "publisher": "Telerik Developer Network",
+    "publications": [
+      {
+        "title": "Building a Conversational Bot with JavaScript and Node.js",
+        "url": "http://developer.telerik.com/content-types/tutorials/building-conversational-bot-javascript/"
+      },
+      {
+        "title": "Can Google's Guetzli JPEG Encoder Help Solve Web Page Bloat?",
+        "url": "http://developer.telerik.com/content-types/opinion/can-googles-guetzli-jpeg-encoder-help-solve-web-page-bloat/"
+      },
+      {
+        "title": "A Guide to Browser Scroll Animations",
+        "url": "http://developer.telerik.com/featured/guide-browser-scroll-animations/"
+      },
+      {
+        "title": "Alexa, Can I Use?",
+        "url": "http://developer.telerik.com/featured/alexa-can-use/"
+      },
+      {
+        "title": "Your Open Source Project is Considered Harmful",
+        "url": "http://developer.telerik.com/featured/open-source-project-considered-harmful/"
+      },
+      {
+        "title": "Is left-pad Indicative of a Fragile JavaScript Ecosystem?",
+        "url": "http://developer.telerik.com/featured/left-pad-indicative-fragile-javascript-ecosystem/",
+        "coauthors": ["TJ VanToll", "Cody Lindley"]
+      },
+      {
+        "title": "What I Learned from Working in Failed Platforms",
+        "url": "http://developer.telerik.com/featured/what-i-learned-from-working-in-failed-platforms/"
+      },
+      {
+        "title": "Creating Node.js Command Line Utilities to Improve Your Workflow",
+        "url": "http://developer.telerik.com/featured/creating-node-js-command-line-utilities-improve-workflow/"
+      },
+      {
+        "title": "Spying on James Bond with Node.js",
+        "url": "http://developer.telerik.com/featured/spying-on-james-bond-with-node-js/"
+      },
+      {
+        "title": "Defining a New Breed of Cross-Platform Mobile Apps",
+        "url": "http://developer.telerik.com/featured/defining-a-new-breed-of-cross-platform-mobile-apps/",
+        "coauthors": ["TJ VanToll"]
+      },
+      {
+        "title": "Lazy Loading Images on the Web",
+        "url": "http://developer.telerik.com/featured/lazy-loading-images-on-the-web/"
+      },
+      {
+        "title": "Static Site or CMS?",
+        "url": "http://developer.telerik.com/featured/static-site-or-cms/"
+      },
+      {
+        "title": "Battle of the Free Code Editors",
+        "url": "http://developer.telerik.com/featured/battle-of-the-free-code-editors/"
+      },
+      {
+        "title": "What's Wrong with the Web?",
+        "url": "http://developer.telerik.com/featured/whats-wrong-with-the-web/"
+      },
+      {
+        "title": "Practical Web Audio",
+        "url": "http://developer.telerik.com/featured/practical-web-audio/"
+      },
+      {
+        "title": "Getting Started with Jekyll",
+        "url": "http://developer.telerik.com/featured/getting-started-with-jekyll/"
+      },
+      {
+        "title": "Adding Audio to Web Apps",
+        "url": "http://developer.telerik.com/featured/adding-audio-to-web-apps/"
+      },
+      {
+        "title": "3 Useful Tools for Local Web Development & Testing",
+        "url": "http://developer.telerik.com/featured/3-useful-tools-local-development-testing/"
+      },
+      {
+        "title": "Can AngularJS Maintain Its Dominance?",
+        "url": "http://developer.telerik.com/featured/can-angularjs-maintain-dominance/"
+      },
+      {
+        "title": "Static Site Engine Battle Royale",
+        "url": "http://developer.telerik.com/featured/comparing-static-site-engines/"
+      }
+    ]
+  },
+  {
+    "publisher": "Progress Blog",
+    "publications": [
+      {
+        "title": "4 Ways to Serverless with Kinvey",
+        "url": "https://www.progress.com/blogs/4-ways-to-serverless-in-kinvey"
+      },
+      {
+        "title": "Top 4 Developer Features in Kinvey",
+        "url": "https://www.progress.com/blogs/top-4-developer-features-in-kinvey"
+      },
+      {
+        "title": "Getting Started with Kinvey FlexServices",
+        "url": "https://www.progress.com/blogs/getting-started-with-kinvey-flexservices"
+      },
+      {
+        "title": "Fast Start to Serverless Enterprise Apps on Kinvey",
+        "url": "https://www.progress.com/blogs/fast-start-to-serverless-enterprise-apps-on-kinvey"
+      }
+    ]
+  },
+  {
+    "publisher": "Kinvey Blog",
+    "publications": [
+      {
+        "title": "Developing and Testing of Kinvey Flex Services the Easier Way",
+        "url": "https://www.kinvey.com/developing-and-testing-of-kinvey-flex-services-the-easier-way/"
+      },
+      {
+        "title": "Enterprise Authentication with Kinvey",
+        "url": "https://www.kinvey.com/enterprise-authentication-kinvey/"
+      },
+      {
+        "title": "Using Kinvey's RapidData Connectors",
+        "url": "https://www.kinvey.com/using-kinveys-rapiddata-connectors/"
+      },
+      {
+        "title": "Understanding Users in Kinvey",
+        "url": "https://www.kinvey.com/understanding-users-kinvey/"
+      }
+    ]
+  },
+  {
+    "publisher": "Angular Attack",
+    "publications": [
+      {
+        "title": "How to Get Set Up with Kinvey for Your Hackathon App",
+        "url": "https://www.angularattack.com/blog/kinvey-set-up"
+      },
+      {
+        "title": "Get the Things Every Hackathon App Needs with Kinvey",
+        "url": "https://www.angularattack.com/blog/kinvey"
+      },
+      {
+        "title": "Key Kinvey Resources for Your App Development",
+        "url": "https://www.angularattack.com/blog/kinvey-resources"
+      }
+    ]
+  },
+  {
+    "publisher": "Mobile Business Insights (IBM)",
+    "publications": [
+      {
+        "title": "Making sense of the mobile development ecosystem – Part 1: The mobile web",
+        "url": "http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-1-the-mobile-web/"
+      },
+      {
+        "title": "Making sense of the mobile development ecosystem – Part 2: Hybrid apps and hybrid/native apps",
+        "url": "http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-2-hybrid-apps-and-hybridnative-apps/"
+      },
+      {
+        "title": "Making sense of the mobile development ecosystem — Part 3: JavaScript native, cross-compiled and native apps",
+        "url": "http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-3-javascript-native-cross-compiled-and-native-apps/"
+      },
+      {
+        "title": "Making sense of the mobile development ecosystem — Part 4: Which mobile option should you choose?",
+        "url": "http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-4-which-mobile-option-should-you-choose/"
+      }
+    ]
+  },
+  {
+    "publisher": "SD Times",
+    "publications": [
+      {
+        "title": "With Minecraft, Microsoft gains young developer mindshare",
+        "url": "http://sdtimes.com/guest-view-minecraft-microsoft-gains-young-developer-mindshare/"
+      }
+    ]
+  },
+  {
+    "publisher": "Developer.com",
+    "publications": [
+      {
+        "title": "The Role of JavaScript in Cognitive Application Development",
+        "url": "http://www.developer.com/lang/jscript/the-role-of-javascript-in-cognitive-application-development.html"
+      }
+    ]
+  },
+  {
+    "publisher": "Business Solutions",
+    "publications": [
+      {
+        "title": "What I Learned From Working In Failed Platforms",
+        "url": "http://www.bsminfo.com/doc/what-i-learned-from-working-in-failed-platforms-0001"
+      }
+    ]
+  },
+  {
+    "publisher": "Sitepoint",
+    "publications": [
+      {
+        "title": "Creating Posts, Custom Metadata, and Data in Wintersmith",
+        "url": "http://www.sitepoint.com/creating-posts-custom-metadata-data-wintersmith/"
+      },
+      {
+        "title": "Getting Started with Wintersmith: A Node.js-based Static Site Generator",
+        "url": "http://www.sitepoint.com/getting-started-wintersmith-nodejs-static-site-generator/"
+      },
+      {
+        "title": "ColdFusion 8 - Believe the Hype",
+        "url": "http://www.sitepoint.com/article/coldfusion-8-believe-hype"
+      }
+    ]
+  },
+  {
+    "publisher": "O'Reilly Radar",
+    "publications": [
+      {
+        "title": "Add depth to your project with practical web audio",
+        "url": "http://radar.oreilly.com/2015/06/add-depth-to-your-project-with-practical-web-audio.html"
+      }
+    ]
+  },
+  {
+    "publisher": "Digital Thirst",
+    "publications": [
+      {
+        "title": "Is the Future of the Web Spoken?",
+        "url": "https://www.digitalthirst.com/item/is-the-future-of-the-web-spoken-"
+      }
+    ]
+  },
+  {
+    "publisher": "The Modern Web (formerly Flippin' Awesome)",
+    "publications": [
+      {
+        "title": "Original Founder, Publisher, Weekly Roundup Contributor",
+        "url": "http://flippinawesome.org/",
+        "note": "founder"
+      },
+      {
+        "title": "Rethinking DOM Traversal",
+        "url": "http://modernweb.com/2014/05/12/rethinking-dom-traversal/"
+      },
+      {
+        "title": "Paralyzed by Choice in Front-end Development",
+        "url": "http://modernweb.com/2014/03/31/paralyzed-by-choice-in-front-end-development/"
+      },
+      {
+        "title": "Creating Sound with the Web Audio API and Oscillators",
+        "url": "http://modernweb.com/2014/03/31/creating-sound-with-the-web-audio-api-and-oscillators/"
+      },
+      {
+        "title": "Building a Successful Content Site",
+        "url": "http://modernweb.com/2014/03/17/building-a-successful-content-site/"
+      },
+      {
+        "title": "CSS for Beginners with Dreamweaver",
+        "url": "http://modernweb.com/2014/02/17/css-for-beginners-with-dreamweaver/"
+      },
+      {
+        "title": "Topic Undefined – Episode 7",
+        "url": "http://modernweb.com/topic-undefined/topic-undefined-episode-7/",
+        "note": "podcast"
+      },
+      {
+        "title": "Using CSS Regions in Responsive Designs",
+        "url": "http://modernweb.com/2014/01/27/using-css-regions-in-responsive-designs/"
+      },
+      {
+        "title": "2014 – What Web Developers Will Need to Know",
+        "url": "http://modernweb.com/2014/01/06/2014-what-web-developers-will-need-to-know/"
+      },
+      {
+        "title": "2013 – The Year in Web Development",
+        "url": "http://modernweb.com/2014/01/06/2013-the-year-in-web-development/"
+      },
+      {
+        "title": "Topic Undefined – Episode 6",
+        "url": "http://modernweb.com/topic-undefined/topic-undefined-episode-6/",
+        "note": "podcast"
+      },
+      {
+        "title": "Topic Undefined – Episode 5",
+        "url": "http://modernweb.com/topic-undefined/topic-undefined-episode-5/",
+        "note": "podcast"
+      },
+      {
+        "title": "Stop Focusing on Tools",
+        "url": "http://modernweb.com/2013/09/16/stop-focusing-on-tools/"
+      },
+      {
+        "title": "Retro Game Music using Web Audio and Band.js",
+        "url": "http://modernweb.com/2013/09/09/retro-game-music-using-web-audio-and-band-js/"
+      },
+      {
+        "title": "Topic Undefined – Episode 3",
+        "url": "http://modernweb.com/topic-undefined/topic-undefined-episode-3/",
+        "note": "podcast"
+      },
+      {
+        "title": "DOM Traversal and Manipulation with Voyeur",
+        "url": "http://modernweb.com/2013/07/22/dom-traversal-and-manipulation-with-voyeur/"
+      },
+      {
+        "title": "Topic Undefined – Episode 2",
+        "url": "http://modernweb.com/topic-undefined/topic-undefined-episode-2/",
+        "note": "podcast"
+      },
+      {
+        "title": "Topic Undefined – Episode 1",
+        "url": "http://modernweb.com/topic-undefined/topic-undefined-episode-1/",
+        "note": "podcast"
+      },
+      {
+        "title": "Drawing and Animating with Two.js and Illustrator",
+        "url": "http://modernweb.com/2013/06/10/drawing-and-animating-with-two-js-and-illustrator/"
+      },
+      {
+        "title": "Quick and Easy Local and Device Web App Testing",
+        "url": "http://modernweb.com/2013/05/06/quick-and-easy-local-and-device-web-app-testing/"
+      },
+      {
+        "title": "Create Your First Mobile App with PhoneGap Build – Using the Notification API",
+        "url": "http://modernweb.com/2013/04/29/phonegap-build-step-7/"
+      },
+      {
+        "title": "Create Your First Mobile App with PhoneGap Build – Using the Storage API",
+        "url": "http://modernweb.com/2013/04/22/phonegap-build-step-6/"
+      },
+      {
+        "title": "Create Your First Mobile App with PhoneGap Build – Adding Pages with jQuery Mobile",
+        "url": "http://modernweb.com/2013/04/15/phonegap-build-step-5/"
+      },
+      {
+        "title": "Create Your First Mobile App with PhoneGap Build – Adding jQuery Mobile",
+        "url": "http://modernweb.com/2013/04/08/phonegap-build-part4/"
+      },
+      {
+        "title": "Create Your First Mobile App with PhoneGap Build – Connecting to an API",
+        "url": "http://modernweb.com/2013/03/29/create-your-first-mobile-app-part3/"
+      },
+      {
+        "title": "Create Your First Mobile App with PhoneGap Build – Using PhoneGap Build",
+        "url": "http://modernweb.com/2013/03/29/phonegap-build-part2/"
+      },
+      {
+        "title": "Create Your First Mobile App with PhoneGap Build – Setup",
+        "url": "http://modernweb.com/2013/03/29/phonegap-build-part1/"
+      }
+    ]
+  },
+  {
+    "publisher": "Adobe Inspire",
+    "publications": [
+      {
+        "title": "Web designers become app developers with PhoneGap",
+        "url": "http://www.adobe.com/inspire/2013/11/web-designers-phonegap.html"
+      },
+      {
+        "title": "Building responsive web designs with Adobe Edge Reflow",
+        "url": "http://www.adobe.com/inspire/2013/04/responsive-web-designs-edge-reflow.html"
+      },
+      {
+        "title": "Getting started with responsive web design",
+        "url": "http://www.adobe.com/inspire/2013/02/responsive-web-design.html"
+      },
+      {
+        "title": "Four cool features you can use with HTML5 today",
+        "url": "http://www.adobe.com/inspire/2012/10/web-standards-html5-today.html"
+      },
+      {
+        "title": "Primer: How to take advantage of web standards",
+        "url": "http://www.adobe.com/inspire/2012/08/web-standards-primer.html"
+      },
+      {
+        "title": "What are web standards and why should I care?",
+        "url": "http://www.adobe.com/newsletters/inspire/april2012/articles/article5/index.html"
+      }
+    ]
+  },
+  {
+    "publisher": "InfoQ",
+    "publications": [
+      {
+        "title": "Axel Rauschmayer on ECMAScript 6 and the Future of JavaScript",
+        "url": "http://www.infoq.com/interviews/axel-rauschmayer-ecmascript-6"
+      },
+      {
+        "title": "A Change in Leadership for Node.js",
+        "url": "http://www.infoq.com/news/2014/01/node-leadership-change"
+      },
+      {
+        "title": "Neal Ford on Giving Technical Presentations",
+        "url": "http://www.infoq.com/interviews/neal-ford-technical-presentations"
+      },
+      {
+        "title": "Andrew Betts on Developing for Mobile with HTML5",
+        "url": "http://www.infoq.com/interviews/andrew-betts-mobile-web"
+      },
+      {
+        "title": "Tom Dale on Ember and JavaScript Frameworks",
+        "url": "http://www.infoq.com/interviews/tom-dale-ember"
+      },
+      {
+        "title": "Google Announces Chrome Apps Improved Offline Capabilities & Mac Support",
+        "url": "http://www.infoq.com/news/2013/12/chrome-apps-mac"
+      },
+      {
+        "title": "Current Trends in NoSQL - Q&A with Peter Bell",
+        "url": "http://www.infoq.com/news/2013/11/nosql-trends"
+      },
+      {
+        "title": "CodeCube Offers Shareable, Runnable Code Samples",
+        "url": "http://www.infoq.com/news/2013/10/codecube"
+      },
+      {
+        "title": "Backbone 1.1.0 Released, Includes Potential Incompatibility with 1.0",
+        "url": "http://www.infoq.com/news/2013/10/backbone-1.1.0-released"
+      }
+    ]
+  },
+  {
+    "publisher": "Adobe Edge",
+    "publications": [
+      {
+        "title": "Advanced Android development with Flex \"Hero\" and Flash Builder \"Burrito\"",
+        "url": "http://www.adobe.com/devnet/html5/articles/nodejs-command-line-tools-for-front-end-development.html"
+      },
+      {
+        "title": "Create Android apps with Flex \"Hero\" and Flash Builder \"Burrito\"",
+        "url": "http://www.adobe.com/devnet/html5/articles/nodejs-command-line-tools-for-front-end-development.html"
+      },
+      {
+        "title": "Getting Started with Adobe AIR for Android",
+        "url": "http://www.adobe.com/newsletters/edge/august2010/articles/article1/index.html"
+      },
+      {
+        "title": "Object relational mapping in ColdFusion 9 and ColdFusion Builder",
+        "url": "http://www.adobe.com/newsletters/edge/april2010/articles/article6/index.html"
+      },
+      {
+        "title": "Tutorial: Build an Adobe AIR application using JavaScript",
+        "url": "http://www.adobe.com/newsletters/edge/february2010/articles/article5/index.html"
+      },
+      {
+        "title": "A guide to Adobe developer groups and resources online",
+        "url": "http://www.adobe.com/newsletters/edge/october2009/articles/article4/index.html"
+      },
+      {
+        "title": "A beginner's guide to the Mate framework for Adobe Flex",
+        "url": "http://www.adobe.com/newsletters/edge/june2009/articles/article5/index.html"
+      },
+      {
+        "title": "Build a personal productivity application with Adobe AIR",
+        "url": "http://www.adobe.com/newsletters/edge/february2009/articles/article2/index.html"
+      },
+      {
+        "title": "Comparing Adobe Flex and Ajax Development Models",
+        "url": "http://www.adobe.com/newsletters/edge/february2009/articles/article2/index.html"
+      },
+      {
+        "title": "Add dynamic content to your site with RSS and ColdFusion",
+        "url": "http://www.adobe.com/newsletters/edge/march2007/articles/article6/index.html"
+      }
+    ]
+  },
+  {
+    "publisher": "Adobe Developer Connection",
+    "publications": [
+      {
+        "title": "Node.js command-line tools for front-end development",
+        "url": "http://www.adobe.com/devnet/html5/articles/nodejs-command-line-tools-for-front-end-development.html"
+      },
+      {
+        "title": "HTML, CSS and JavaScript code editing with Edge Code",
+        "url": "http://www.adobe.com/devnet/edge-code/articles/code-editing-with-edge-code.html"
+      },
+      {
+        "title": "Browser testing across devices with Adobe Edge Inspect",
+        "url": "http://www.adobe.com/devnet/edge-inspect/articles/browser-testing-across-devices-with-adobe-edge-inspect.html"
+      },
+      {
+        "title": "Pseudo-classical object-oriented programming in JavaScript with Minion",
+        "url": "http://www.adobe.com/devnet/html5/articles/pseudo-classical-object-oriented-programming-in-javascript-with-minion.html"
+      },
+      {
+        "title": "Metablog Monthly throughout 2011",
+        "url": "http://www.adobe.com/devnet/ria/newsletter/2011-11-themetablog.html"
+      },
+      {
+        "title": "Creating Self-updating ColdFusion Builder Beta Extensions",
+        "url": "http://www.adobe.com/devnet/coldfusion/articles/cfbuilder_selfupdating_extension.html"
+      }
+    ]
+  },
+  {
+    "publisher": "Onward Search Blog",
+    "publications": [
+      {
+        "title": "Breaking into a Front-end Development Career",
+        "url": "http://blog.onwardsearch.com/2012/11/breaking-in-to-a-front-end-development-career/"
+      }
+    ]
+  },
+  {
+    "publisher": "Kendo UI Blog",
+    "publications": [
+      {
+        "title": "Using Adobe Edge Tools and Services with Kendo UI",
+        "url": "http://www.kendoui.com/blogs/teamblog/posts/12-12-04/using_adobe_edge_tools_and_services_with_kendo_ui.aspx"
+      }
+    ]
+  },
+  {
+    "publisher": "Flex Authority",
+    "publications": [
+      {
+        "title": "Hello Mate! A Beginner's Guide to the Mate Flex Framework",
+        "url": "http://www.flex-authority.com/issues/flex-and-air/hello-mate.cfm",
+        "note": "Vol. 1 Issue 1"
+      }
+    ]
+  },
+  {
+    "publisher": "Fusion Authority Quarterly Update",
+    "publications": [
+      {
+        "title": "Getting to Know Mr. Wizard",
+        "note": "Vol. 2, Issue 4"
+      },
+      {
+        "title": "What's Hot? What's Not? - What new ColdFusion 8 tags or features do you find indispensable, and why?",
+        "url": "http://www.fusionauthority.com/quarterly/",
+        "note": "Vol. 2, Issue 3"
+      },
+      {
+        "title": "Cairngorm Crystallized: Examining the Cairngorm Microarchitecture from a Workflow Perspective",
+        "url": "http://www.fusionauthority.com/quarterly/",
+        "note": "Vol. 2, Issue 2"
+      }
+    ]
+  },
+  {
+    "publisher": "DevShed",
+    "publications": [
+      {
+        "title": "Adobe ColdFusion Just Got More RAD",
+        "url": "http://www.devarticles.com/c/a/ColdFusion/Adobe-ColdFusion-Just-Got-More-RAD/"
+      }
+    ]
+  },
+  {
+    "publisher": "Fusion Authority Online",
+    "publications": [
+      {
+        "title": "Elad Elrom Talks Flash...and the City",
+        "url": "http://www.fusionauthority.com/community/4799-elad-elrom-talks-flash-and-the-city.htm"
+      },
+      {
+        "title": "An Interview with John Wilker of 360Conferences",
+        "url": "http://www.fusionauthority.com/community/4791-an-interview-with-john-wilker-of-360-conferences.htm"
+      },
+      {
+        "title": "cf.Objective() 2008 Wrap-Up",
+        "url": "http://www.fusionauthority.com/news/4751-cf-objective-2008-wrap-up.htm"
+      },
+      {
+        "title": "cf.Objective() - Day One",
+        "url": "http://www.fusionauthority.com/Community/4685-cf-Objective-Day-One.htm"
+      },
+      {
+        "title": "cf.Objective() Day Two: May 5, 2007",
+        "url": "http://www.fusionauthority.com/Community/4686-cf-Objective-Day-Two-May-5-2007.htm"
+      },
+      {
+        "title": "cf.Objective() Day Three: May 6, 2007",
+        "url": "http://www.fusionauthority.com/Community/4687-cf-Objective-Day-Three-May-6-2007.htm"
+      },
+      {
+        "title": "Build a Code Generator in Five Easy Steps",
+        "url": "http://www.fusionauthority.com/Techniques/4657-Build-a-Code-Generator-in-Five-Easy-Steps.htm"
+      }
+    ]
+  },
+  {
+    "publisher": "ColdFusion Developer's Journal",
+    "publications": [
+      {
+        "title": "Stopping Spam in Its Tracks...using CAPTCHA",
+        "url": "http://coldfusion.sys-con.com/read/236003.htm"
+      },
+      {
+        "title": "Implementing a Nested Set Model in ColdFusion",
+        "url": "http://coldfusion.sys-con.com/read/42123.htm"
+      }
+    ]
+  }
+]

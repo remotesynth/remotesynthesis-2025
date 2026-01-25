@@ -1,0 +1,44 @@
+---
+import Main from "@/layouts/Main.astro";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import { SITE } from "@/config";
+import presentationsData from "@/data/presentations.json";
+---
+
+<Layout title={`Presentations | ${SITE.title}`}>
+  <Header />
+  <Main
+    pageTitle="Presentations"
+    pageDesc="Conference talks and presentations I've given over the years."
+  >
+    <div class="presentations">
+      {
+        presentationsData.map(group => (
+          <section class="mb-8">
+            <h2 class="text-xl font-semibold mb-3 text-accent">{group.month}</h2>
+            <ul class="space-y-2">
+              {group.presentations.map(pres => (
+                <li class="pl-4 border-l-2 border-border">
+                  <span class="font-medium">{pres.title}</span>
+                  <span class="text-muted-foreground">
+                    {" "}
+                    — {pres.conference}
+                  </span>
+                  {pres.note && (
+                    <span class="text-sm text-muted-foreground italic">
+                      {" "}
+                      ({pres.note})
+                    </span>
+                  )}
+                </li>
+              ))}
+            </ul>
+          </section>
+        ))
+      }
+    </div>
+  </Main>
+  <Footer />
+</Layout>

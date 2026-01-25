@@ -3,35 +3,22 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Brian Rinaldi is a 25+ year veteran developer based in Boston, Massachusetts who currently leads the Developer Relations team at [LocalStack](https://localstack.cloud).
 
-![Astro Paper](public/astropaper-og.jpg)
+![Brian Rinaldi](public/myphoto.jpg)
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+## About Me
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+I got my start developing web applications way back in 1997 with tools like Flash and ColdFusion and I've been coding, mostly for the web, ever since. Today I still build applications primarily using JavaScript/TypeScript for the frontend and backend with an emphasis on serverless architectures.
 
-## Features
+I've also been deeply involved in the developer community for decades, getting my start running the user groups and conferences in Boston in the early 2000s. I got my start working in Developer Relations (aka DevRel) roles at Adobe in 2010 and have been working in DevRel ever since.
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+* [My presentations](/presentations)
+* [My publications](/publications)
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+### Notable DevRel Positions
 
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+* Adobe
+* Progress Software (Telerik, acquired)
+* LaunchDarkly
+* LocalStack

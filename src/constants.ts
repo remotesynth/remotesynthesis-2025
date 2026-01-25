@@ -1,12 +1,10 @@
 import type { Props } from "astro";
 import IconMail from "@/assets/icons/IconMail.svg";
 import IconGitHub from "@/assets/icons/IconGitHub.svg";
-import IconBrandX from "@/assets/icons/IconBrandX.svg";
+import IconBluesky from "@/assets/icons/IconBluesky.svg";
 import IconLinkedin from "@/assets/icons/IconLinkedin.svg";
-import IconWhatsapp from "@/assets/icons/IconWhatsapp.svg";
-import IconFacebook from "@/assets/icons/IconFacebook.svg";
+import IconMastodon from "@/assets/icons/IconMastodon.svg";
 import IconTelegram from "@/assets/icons/IconTelegram.svg";
-import IconPinterest from "@/assets/icons/IconPinterest.svg";
 import { SITE } from "@/config";
 
 interface Social {
@@ -19,60 +17,48 @@ interface Social {
 export const SOCIALS: Social[] = [
   {
     name: "GitHub",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/remotesynth/",
     linkTitle: `${SITE.title} on GitHub`,
     icon: IconGitHub,
   },
   {
-    name: "X",
-    href: "https://x.com/username",
-    linkTitle: `${SITE.title} on X`,
-    icon: IconBrandX,
+    name: "BlueSky",
+    href: "https://bsky.app/profile/remotesynthesis.com",
+    linkTitle: `${SITE.title} on BlueSky`,
+    icon: IconBluesky,
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/username/",
+    href: "https://www.linkedin.com/in/brianrinaldi/",
     linkTitle: `${SITE.title} on LinkedIn`,
     icon: IconLinkedin,
   },
   {
-    name: "Mail",
-    href: "mailto:yourmail@gmail.com",
-    linkTitle: `Send an email to ${SITE.title}`,
-    icon: IconMail,
+    name: "Mastodon",
+    href: "https://mastodon.xyz/@remotesynth",
+    linkTitle: `${SITE.title} on Mastodon`,
+    icon: IconMastodon,
   },
 ] as const;
 
 export const SHARE_LINKS: Social[] = [
   {
-    name: "WhatsApp",
-    href: "https://wa.me/?text=",
-    linkTitle: `Share this post via WhatsApp`,
-    icon: IconWhatsapp,
+    name: "Mastodon",
+    href: "https://mastodon.xyz/share?text=",
+    linkTitle: `Share this post on Mastodon`,
+    icon: IconMastodon,
   },
   {
-    name: "Facebook",
-    href: "https://www.facebook.com/sharer.php?u=",
-    linkTitle: `Share this post on Facebook`,
-    icon: IconFacebook,
-  },
-  {
-    name: "X",
-    href: "https://x.com/intent/post?url=",
-    linkTitle: `Share this post on X`,
-    icon: IconBrandX,
+    name: "BlueSky",
+    href: "https://bsky.app/intent/compose?text=",
+    linkTitle: `Share this post on BlueSky`,
+    icon: IconBluesky,
   },
   {
     name: "Telegram",
     href: "https://t.me/share/url?url=",
     linkTitle: `Share this post via Telegram`,
     icon: IconTelegram,
-  },
-  {
-    name: "Pinterest",
-    href: "https://pinterest.com/pin/create/button/?url=",
-    linkTitle: `Share this post on Pinterest`,
-    icon: IconPinterest,
   },
   {
     name: "Mail",

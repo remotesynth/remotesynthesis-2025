@@ -1,0 +1,700 @@
+[
+  {
+    "month": "October 2024",
+    "presentations": [
+      {
+        "conference": "Web Unleashed",
+        "title": "AWS for Front-end Developers"
+      }
+    ]
+  },
+  {
+    "month": "April 2024",
+    "presentations": [
+      {
+        "conference": "DevNexus",
+        "title": "What the Heck are Server Sent Events?"
+      },
+      {
+        "conference": "Infobip Shift: Miami",
+        "title": "Composable? Jamstack? Navigating the Buzzwords of Front-end Development"
+      }
+    ]
+  },
+  {
+    "month": "October 2023",
+    "presentations": [
+      {
+        "conference": "QCON SF",
+        "title": "Rethinking SaaS Entitlement Management with Feature Flags",
+        "note": "co-presenter"
+      },
+      {
+        "conference": "All Things Open",
+        "title": "What the Heck Are Server Sent Events?"
+      },
+      {
+        "conference": "MetaCenter Global Week",
+        "title": "Closing the Skills Gap",
+        "note": "Panel Moderator"
+      }
+    ]
+  },
+  {
+    "month": "September 2023",
+    "presentations": [
+      {
+        "conference": "WaysConf",
+        "title": "What You Need to Know About the Serverless Edge"
+      },
+      {
+        "conference": "UtahJS",
+        "title": "Get Your Web App Development in Shape with SvelteKit"
+      }
+    ]
+  },
+  {
+    "month": "July 2023",
+    "presentations": [
+      {
+        "conference": "That Conference (Wisconsin)",
+        "title": "Lifting Off with Astro"
+      }
+    ]
+  },
+  {
+    "month": "June 2023",
+    "presentations": [
+      {
+        "conference": "KCDC",
+        "title": "What You Need to Know About the Serverless Edge"
+      }
+    ]
+  },
+  {
+    "month": "January 2023",
+    "presentations": [
+      {
+        "conference": "That Conference (Texas)",
+        "title": "Is the Jamstack still relevant in 2023?"
+      }
+    ]
+  },
+  {
+    "month": "November 2022",
+    "presentations": [
+      {
+        "conference": "AWS re:Invent 2022",
+        "title": "Optimizing price performance with feature management and observability",
+        "note": "co-presenter"
+      }
+    ]
+  },
+  {
+    "month": "August 2022",
+    "presentations": [
+      {
+        "conference": "Into the Box (Virtual)",
+        "title": "Feature Flagging is Just Simple Booleans: False"
+      }
+    ]
+  },
+  {
+    "month": "July 2022",
+    "presentations": [
+      {
+        "conference": "That Conference (Wisconsin)",
+        "title": "Feature Flagging is Just Simple Booleans: False"
+      }
+    ]
+  },
+  {
+    "month": "June 2022",
+    "presentations": [
+      {
+        "conference": "Galaxy Atlanta",
+        "title": "Flagging at the Edge"
+      }
+    ]
+  },
+  {
+    "month": "April 2022",
+    "presentations": [
+      {
+        "conference": "DevNexus",
+        "title": "At the Edge of My Server"
+      }
+    ]
+  },
+  {
+    "month": "October 2021",
+    "presentations": [
+      {
+        "conference": "Connect.Tech",
+        "title": "To Truly Understand Jamstack, Forget the JAM"
+      }
+    ]
+  },
+  {
+    "month": "June 2021",
+    "presentations": [
+      {
+        "conference": "Manning Developer Productivity Conference",
+        "title": "3 Productivity Hacks for Jamstack"
+      }
+    ]
+  },
+  {
+    "month": "April 2021",
+    "presentations": [
+      {
+        "conference": "UI.dev",
+        "title": "A Practical Introduction to the Jamstack"
+      },
+      {
+        "conference": "Mintbean",
+        "title": "Introduction to the Jamstack"
+      }
+    ]
+  },
+  {
+    "month": "November 2019",
+    "presentations": [
+      {
+        "conference": "Orlando Devs",
+        "title": "Getting Started with the JAMstack"
+      }
+    ]
+  },
+  {
+    "month": "October 2019",
+    "presentations": [
+      {
+        "conference": "Connect.Tech",
+        "title": "Whither Wordpress? Static CMS are Finally Ready to Shine!"
+      }
+    ]
+  },
+  {
+    "month": "November 2018",
+    "presentations": [
+      {
+        "conference": "DevReach",
+        "title": "Strategies for Offline Data in Web Apps"
+      }
+    ]
+  },
+  {
+    "month": "October 2018",
+    "presentations": [
+      {
+        "conference": "Connect.Tech",
+        "title": "Strategies for Offline Data in Web Apps"
+      }
+    ]
+  },
+  {
+    "month": "June 2018",
+    "presentations": [
+      {
+        "conference": "O'Reilly Fluent",
+        "title": "Developers Need to Start Paying Attention to Licenses"
+      }
+    ]
+  },
+  {
+    "month": "May 2018",
+    "presentations": [
+      {
+        "conference": "ProgressNEXT",
+        "title": "Getting Started with Kinvey"
+      }
+    ]
+  },
+  {
+    "month": "October 2017",
+    "presentations": [
+      {
+        "conference": "Tech Talks Orlando",
+        "title": "Developers Need to Start Paying Attention to Licenses"
+      }
+    ]
+  },
+  {
+    "month": "April 2017",
+    "presentations": [
+      {
+        "conference": "OrlandoJS",
+        "title": "Building Conversational Chat Bots with JavaScript and Node.js"
+      },
+      {
+        "conference": "Front End Orlando",
+        "title": "Static Site Generators"
+      }
+    ]
+  },
+  {
+    "month": "October 2016",
+    "presentations": [
+      {
+        "conference": "Connect.Tech",
+        "title": "Getting Started with Jekyll"
+      }
+    ]
+  },
+  {
+    "month": "September 2016",
+    "presentations": [
+      {
+        "conference": "Web Unleashed",
+        "title": "Getting Started with Jekyll"
+      }
+    ]
+  },
+  {
+    "month": "March 2016",
+    "presentations": [
+      {
+        "conference": "O'Reilly Fluent",
+        "title": "Static Sites for JavaScript Developers"
+      }
+    ]
+  },
+  {
+    "month": "January 2016",
+    "presentations": [
+      {
+        "conference": "Workshop",
+        "title": "Cordova Plugins in Action",
+        "note": "with TJ VanToll"
+      }
+    ]
+  },
+  {
+    "month": "October 2015",
+    "presentations": [
+      {
+        "conference": "ConnectJS",
+        "title": "They're Back! - Modern Tools for Static Site Development"
+      }
+    ]
+  },
+  {
+    "month": "September 2015",
+    "presentations": [
+      {
+        "conference": "Web Unleashed",
+        "title": "They're Back! - Modern Tools for Static Site Development"
+      }
+    ]
+  },
+  {
+    "month": "August 2015",
+    "presentations": [
+      {
+        "conference": "That Conference",
+        "title": "They're Back! - Modern Tools for Static Site Development"
+      }
+    ]
+  },
+  {
+    "month": "May 2015",
+    "presentations": [
+      {
+        "conference": "Mobile Tea, Boston",
+        "title": "Practical Web Audio"
+      },
+      {
+        "conference": "Fluent 2015",
+        "title": "Practical Web Audio"
+      },
+      {
+        "conference": "JekyllConf 2015",
+        "title": "Comparing Jekyll to the Competition"
+      }
+    ]
+  },
+  {
+    "month": "March 2015",
+    "presentations": [
+      {
+        "conference": "DevNexus",
+        "title": "Comparing Static Site Engines"
+      }
+    ]
+  },
+  {
+    "month": "February 2015",
+    "presentations": [
+      {
+        "conference": "San Francisco HTML5 User Group",
+        "title": "Comparing Static Site Engines"
+      }
+    ]
+  },
+  {
+    "month": "September 2014",
+    "presentations": [
+      {
+        "conference": "Web Unleashed, Toronto",
+        "title": "8-bit Game Music with Web Audio API"
+      },
+      {
+        "conference": "Mobile Tea, Boston",
+        "title": "Important Lessons in Responsive Web Design"
+      }
+    ]
+  },
+  {
+    "month": "June 2014",
+    "presentations": [
+      {
+        "conference": "QCon NY",
+        "title": "Beyond JavaScript",
+        "note": "Track Chair, Conference Committee"
+      }
+    ]
+  },
+  {
+    "month": "May 2014",
+    "presentations": [
+      {
+        "conference": "cf.Objective()",
+        "title": "Leveling Up at Javascript: DOM Traversal"
+      },
+      {
+        "conference": "Boston ColdFusion User Group",
+        "title": "Leveling Up at Javascript: DOM Traversal"
+      }
+    ]
+  },
+  {
+    "month": "March 2014",
+    "presentations": [
+      {
+        "conference": "Fluent",
+        "title": "Creating 8-bit Game Music in the Browser"
+      }
+    ]
+  },
+  {
+    "month": "February 2014",
+    "presentations": [
+      {
+        "conference": "DevNexus",
+        "title": "Approaches to DOM Traversal"
+      },
+      {
+        "conference": "DevNexus",
+        "title": "Getting Started with Responsive Web Design",
+        "note": "workshop"
+      }
+    ]
+  },
+  {
+    "month": "November 2013",
+    "presentations": [
+      {
+        "conference": "Web Unleashed",
+        "title": "Getting Started with Responsive Design",
+        "note": "workshop"
+      },
+      {
+        "conference": "Web Unleashed",
+        "title": "Node in Command - Node CLI Tools"
+      }
+    ]
+  },
+  {
+    "month": "October 2013",
+    "presentations": [
+      {
+        "conference": "Worcester Web Technology Group",
+        "title": "Develop Node.JS, HTML and JavaScript Apps Using Open Source Adobe Brackets"
+      }
+    ]
+  },
+  {
+    "month": "July 2013",
+    "presentations": [
+      {
+        "conference": "Mobile and Web Devcon",
+        "title": "Introduction to Responsive Web Design and Adobe Edge Reflow"
+      }
+    ]
+  },
+  {
+    "month": "May 2013",
+    "presentations": [
+      {
+        "conference": "Fluent",
+        "title": "Go Node Without Code"
+      },
+      {
+        "conference": "cf.Objective",
+        "title": "Go Node Without Code"
+      }
+    ]
+  },
+  {
+    "month": "April 2013",
+    "presentations": [
+      {
+        "conference": "HTML5 Developers Conference",
+        "title": "Introduction to Responsive Web Design and Adobe Edge Reflow"
+      },
+      {
+        "conference": "Adobe Community Tech Weds",
+        "title": "Introduction to Responsive Web Design and Adobe Edge Reflow"
+      }
+    ]
+  },
+  {
+    "month": "February 2013",
+    "presentations": [
+      {
+        "conference": "HTML5tx",
+        "title": "Web Application Architecture: Learning from Adobe Brackets"
+      }
+    ]
+  },
+  {
+    "month": "November 2012",
+    "presentations": [
+      {
+        "conference": "Web Unleashed",
+        "title": "Developing Mobile Apps with PhoneGap Build",
+        "note": "half-day workshop"
+      },
+      {
+        "conference": "Web Unleashed",
+        "title": "PhoneGap Build: Building Multiplatform Apps with HTML, CSS and JavaScript"
+      },
+      {
+        "conference": "Refresh Denver",
+        "title": "Create the Web Tour"
+      }
+    ]
+  },
+  {
+    "month": "October 2012",
+    "presentations": [
+      {
+        "conference": "HTML5 Developer Conference",
+        "title": "Web Application Architecture: Lessons Learned from Adobe Brackets"
+      },
+      {
+        "conference": "DevReach",
+        "title": "PhoneGap Build: Building Multiplatform Apps with HTML, CSS and JavaScript"
+      },
+      {
+        "conference": "DevReach",
+        "title": "Web Application Architecture: Lessons Learned from Adobe Brackets"
+      }
+    ]
+  },
+  {
+    "month": "May 2012",
+    "presentations": [
+      {
+        "conference": "Fluent",
+        "title": "Adobe & HTML & JavaScript"
+      },
+      {
+        "conference": "cf.Objective()",
+        "title": "Mapping Out the Frontier of HTML5 & JavaScript Development"
+      }
+    ]
+  },
+  {
+    "month": "April 2012",
+    "presentations": [
+      {
+        "conference": "360Flex",
+        "title": "Mapping Out the Frontier of HTML5 & JavaScript Development"
+      }
+    ]
+  },
+  {
+    "month": "March 2012",
+    "presentations": [
+      {
+        "conference": "Denver CFUG",
+        "title": "Mapping Out the Frontier of HTML5 & JavaScript Development"
+      }
+    ]
+  },
+  {
+    "month": "February 2012",
+    "presentations": [
+      {
+        "conference": "Community Roundtable",
+        "title": "Presentation to the Community Roundtable"
+      }
+    ]
+  },
+  {
+    "month": "July 2011",
+    "presentations": [
+      {
+        "conference": "eCoast Mobile Summit",
+        "title": "Native vs. Web/Hybrid Development",
+        "note": "panel"
+      }
+    ]
+  },
+  {
+    "month": "June 2011",
+    "presentations": [
+      {
+        "conference": "Flash and the City Conference",
+        "title": "Developing Applications for Mobile & Devices Using Flex 4.5 and Flash Builder 4.5",
+        "note": "Adobe Keynote portion"
+      }
+    ]
+  },
+  {
+    "month": "April 2011",
+    "presentations": [
+      {
+        "conference": "Denver CFUG",
+        "title": "Developing Applications for Mobile & Devices Using Flex \"Hero\" and Flash Builder \"Burrito\""
+      }
+    ]
+  },
+  {
+    "month": "February 2011",
+    "presentations": [
+      {
+        "conference": "Boston Flash Platform User Group",
+        "title": "Developing Applications for Mobile & Devices Using Flex \"Hero\" and Flash Builder \"Burrito\""
+      }
+    ]
+  },
+  {
+    "month": "July 2010",
+    "presentations": [
+      {
+        "conference": "CFUnited 2010",
+        "title": "Beginning Flex for ColdFusion Developers"
+      },
+      {
+        "conference": "CFUnited 2010",
+        "title": "Building Self-Updating ColdFusion Builder Extensions"
+      }
+    ]
+  },
+  {
+    "month": "June 2010",
+    "presentations": [
+      {
+        "conference": "Bay Area ColdFusion User Group",
+        "title": "Building Self-Updating ColdFusion Builder Extensions"
+      }
+    ]
+  },
+  {
+    "month": "January 2010",
+    "presentations": [
+      {
+        "conference": "Online ColdFusion Meetup",
+        "title": "Introduction to ColdSpring"
+      }
+    ]
+  },
+  {
+    "month": "October 2009",
+    "presentations": [
+      {
+        "conference": "Hartford AUG",
+        "title": "Introduction to ColdSpring"
+      }
+    ]
+  },
+  {
+    "month": "September 2009",
+    "presentations": [
+      {
+        "conference": "Devon CFUG",
+        "title": "Introduction to ColdSpring"
+      },
+      {
+        "conference": "Boeing CFUG",
+        "title": "Introduction to ColdSpring"
+      }
+    ]
+  },
+  {
+    "month": "August 2009",
+    "presentations": [
+      {
+        "conference": "CFUnited 2009",
+        "title": "A CF Developer's Guide to the Mate Flex Framework"
+      }
+    ]
+  },
+  {
+    "month": "January 2009",
+    "presentations": [
+      {
+        "conference": "Harvard University Extension School",
+        "title": "ColdFusion 8"
+      }
+    ]
+  },
+  {
+    "month": "June 2008",
+    "presentations": [
+      {
+        "conference": "CFUnited 2008",
+        "title": "Writing an RIA? Secure Your Data!"
+      }
+    ]
+  },
+  {
+    "month": "May 2008",
+    "presentations": [
+      {
+        "conference": "cf.Objective 2008 Conference",
+        "title": "Cairngorm for ColdFusion Developers"
+      },
+      {
+        "conference": "Boeing ColdFusion User Group",
+        "title": "Practical Code Generation"
+      }
+    ]
+  },
+  {
+    "month": "January 2008",
+    "presentations": [
+      {
+        "conference": "Harvard University Extension School",
+        "title": "ColdFusion 8: Server Administration and Development Basics"
+      },
+      {
+        "conference": "Boeing Corporation",
+        "title": "Generating Framework Code with Illudium",
+        "note": "Connect Presentation"
+      }
+    ]
+  },
+  {
+    "month": "August 2007",
+    "presentations": [
+      {
+        "conference": "Hartford CT Adobe User Group",
+        "title": "Generating Framework Code with Illudium"
+      }
+    ]
+  },
+  {
+    "month": "July 2007",
+    "presentations": [
+      {
+        "conference": "cfFrameworks",
+        "title": "Generating Framework Code with Illudium",
+        "note": "Connect Presentation"
+      }
+    ]
+  }
+]

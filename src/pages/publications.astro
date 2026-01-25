@@ -1,0 +1,79 @@
+---
+import Main from "@/layouts/Main.astro";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import { SITE } from "@/config";
+import publicationsData from "@/data/publications.json";
+
+interface Publication {
+  title: string;
+  url?: string;
+  coauthors?: string[];
+  type?: string;
+  note?: string;
+}
+
+interface PublisherGroup {
+  publisher: string;
+  publications: Publication[];
+}
+
+const data = publicationsData as PublisherGroup[];
+---
+
+<Layout title={`Publications | ${SITE.title}`}>
+  <Header />
+  <Main
+    pageTitle="Publications"
+    pageDesc="Books, articles, and other publications I've written over the years."
+  >
+    <div class="publications">
+      {
+        data.map(group => (
+          <section class="mb-8">
+            <h2 class="text-xl font-semibold mb-3 text-accent">
+              {group.publisher}
+            </h2>
+            <ul class="space-y-2">
+              {group.publications.map(pub => (
+                <li class="pl-4 border-l-2 border-border">
+                  {pub.url ? (
+                    <a
+                      href={pub.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="font-medium text-foreground hover:text-accent underline decoration-dashed underline-offset-4 decoration-muted-foreground hover:decoration-accent"
+                    >
+                      {pub.title}
+                    </a>
+                  ) : (
+                    <span class="font-medium">{pub.title}</span>
+                  )}
+                  {pub.type === "book" && (
+                    <span class="ml-2 text-xs px-2 py-0.5 bg-accent/10 text-accent rounded">
+                      Book
+                    </span>
+                  )}
+                  {pub.coauthors && pub.coauthors.length > 0 && (
+                    <span class="text-sm text-muted-foreground">
+                      {" "}
+                      — with {pub.coauthors.join(", ")}
+                    </span>
+                  )}
+                  {pub.note && (
+                    <span class="text-sm text-muted-foreground italic">
+                      {" "}
+                      ({pub.note})
+                    </span>
+                  )}
+                </li>
+              ))}
+            </ul>
+          </section>
+        ))
+      }
+    </div>
+  </Main>
+  <Footer />
+</Layout>
