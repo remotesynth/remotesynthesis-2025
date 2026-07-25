@@ -5,7 +5,10 @@
       {
         "title": "The Jamstack Book",
         "url": "https://www.manning.com/books/the-jamstack-book",
-        "coauthors": ["Raymond Camden"],
+        "date": "2022",
+        "coauthors": [
+          "Raymond Camden"
+        ],
         "type": "book"
       }
     ]
@@ -16,18 +19,28 @@
       {
         "title": "Operating Continuously",
         "url": "https://www.oreilly.com/library/view/operating-continuously/9781098117283/",
-        "coauthors": ["Edith Harbaugh", "Cody DeArkland"],
+        "date": "2023",
+        "coauthors": [
+          "Edith Harbaugh",
+          "Cody DeArkland"
+        ],
         "type": "book"
       },
       {
         "title": "Static Site Generators - Modern Tools for Static Website Development",
         "url": "http://www.oreilly.com/web-platform/free/static-site-generators.csp",
+        "archiveUrl": "https://web.archive.org/web/20151002022812/http://www.oreilly.com/web-platform/free/static-site-generators.csp",
+        "date": "2015",
         "type": "book"
       },
       {
         "title": "Working with Static Sites",
         "url": "http://shop.oreilly.com/product/0636920051879.do",
-        "coauthors": ["Raymond Camden"],
+        "archiveUrl": "https://web.archive.org/web/20160725070058/http://shop.oreilly.com/product/0636920051879.do",
+        "date": "2017",
+        "coauthors": [
+          "Raymond Camden"
+        ],
         "type": "book"
       }
     ]
@@ -37,15 +50,18 @@
     "publications": [
       {
         "title": "5 Myths About Jamstack",
-        "url": "https://css-tricks.com/5-myths-about-jamstack/"
+        "url": "https://css-tricks.com/5-myths-about-jamstack/",
+        "date": "2020-06-09"
       },
       {
         "title": "JAMstack CMSs Have Finally Grown Up!",
-        "url": "https://css-tricks.com/jamstack-cmss-have-finally-grown-up/"
+        "url": "https://css-tricks.com/jamstack-cmss-have-finally-grown-up/",
+        "date": "2019-11-15"
       },
       {
         "title": "What Really Makes a Static Site Generator?",
-        "url": "https://css-tricks.com/really-makes-static-site-generator/"
+        "url": "https://css-tricks.com/really-makes-static-site-generator/",
+        "date": "2017-02-06"
       }
     ]
   },
@@ -54,7 +70,8 @@
     "publications": [
       {
         "title": "Simple and Flexible SaaS Entitlement Management with LaunchDarkly",
-        "url": "https://aws.amazon.com/blogs/apn/simple-and-flexible-saas-entitlement-management-with-launchdarkly/"
+        "url": "https://aws.amazon.com/blogs/apn/simple-and-flexible-saas-entitlement-management-with-launchdarkly/",
+        "date": "2023-07-11"
       }
     ]
   },
@@ -63,7 +80,8 @@
     "publications": [
       {
         "title": "3 Lessons from 4 Years of Running Virtual Developer Events",
-        "url": "https://www.heavybit.com/library/blog/3-lessons-from-4-years-of-running-virtual-developer-events/"
+        "url": "https://www.heavybit.com/library/article/3-lessons-from-4-years-of-running-virtual-developer-events/",
+        "date": "2021-05-05"
       }
     ]
   },
@@ -72,7 +90,8 @@
     "publications": [
       {
         "title": "Five developer trends to watch in 2019",
-        "url": "https://www.developer-tech.com/news/2019/may/16/opinion-five-developer-trends-2019/"
+        "url": "https://www.developer-tech.com/news/2019/may/16/opinion-five-developer-trends-2019/",
+        "date": "2019"
       }
     ]
   },
@@ -81,7 +100,8 @@
     "publications": [
       {
         "title": "Why tomorrow is the best time to be a developer",
-        "url": "https://www.computerworld.com.au/article/648617/why-tomorrow-best-time-developer/?fp=16&fpid=1"
+        "url": "https://www.computerworld.com.au/article/648617/why-tomorrow-best-time-developer/?fp=16&fpid=1",
+        "date": "2024-03-11"
       }
     ]
   },
@@ -90,56 +110,71 @@
     "publications": [
       {
         "title": "Catch AWS Cost Issues Before They Ever Hit Your Pipeline",
-        "url": "https://blog.localstack.cloud/managing-cloud-costs-cloudburn/"
+        "url": "https://blog.localstack.cloud/managing-cloud-costs-cloudburn/",
+        "date": "2026-06-02"
       },
       {
         "title": "3 Things You Need to Know About LocalStack",
-        "url": "https://blog.localstack.cloud/3-things-to-know-about-localstack/"
+        "url": "https://blog.localstack.cloud/3-things-to-know-about-localstack/",
+        "date": "2026-04-10"
       },
       {
         "title": "AWS Deep Dives - Amazon SNS (Simple Notification Service)",
-        "url": "https://blog.localstack.cloud/aws-deep-dives-sns/"
+        "url": "https://blog.localstack.cloud/aws-deep-dives-sns/",
+        "date": "2026-03-03"
       },
       {
         "title": "Build Knowledge Graph Applications with LocalStack and TypeDB Extension",
         "url": "https://blog.localstack.cloud/build-knowledge-graph-applications-localstack-typedb-extension/",
-        "coauthors": ["Harsh Mishra"]
+        "date": "2026-02-03",
+        "coauthors": [
+          "Harsh Mishra"
+        ]
       },
       {
         "title": "AWS Deep Dives - SQS (Simple Queue Service)",
-        "url": "https://blog.localstack.cloud/aws-deep-dives-sqs/"
+        "url": "https://blog.localstack.cloud/aws-deep-dives-sqs/",
+        "date": "2025-09-25"
       },
       {
         "title": "AWS Deep Dives - SES (Simple Email Service)",
-        "url": "https://blog.localstack.cloud/aws-deep-dives-ses/"
+        "url": "https://blog.localstack.cloud/aws-deep-dives-ses/",
+        "date": "2025-08-21"
       },
       {
         "title": "Is AWS's New Kiro IDE a Cursor Killer?",
-        "url": "https://blog.localstack.cloud/is-kiro-a-cursor-killer/"
+        "url": "https://blog.localstack.cloud/is-kiro-a-cursor-killer/",
+        "date": "2025-07-22"
       },
       {
         "title": "3 Tips and Tricks for Using LocalStack with AWS",
-        "url": "https://blog.localstack.cloud/tips-and-tricks-localstack-aws/"
+        "url": "https://blog.localstack.cloud/tips-and-tricks-localstack-aws/",
+        "date": "2025-04-01"
       },
       {
         "title": "Step Functions Made Easy in AWS and LocalStack",
-        "url": "https://blog.localstack.cloud/aws-step-functions-made-easy/"
+        "url": "https://blog.localstack.cloud/aws-step-functions-made-easy/",
+        "date": "2024-11-22"
       },
       {
         "title": "AWS CLI Made Easy with Amazon Q",
-        "url": "https://blog.localstack.cloud/aws-cli-made-easy-with-amazon-q/"
+        "url": "https://blog.localstack.cloud/aws-cli-made-easy-with-amazon-q/",
+        "date": "2024-11-05"
       },
       {
         "title": "Serverless Best Practices with AWS Lambda PowerTools",
-        "url": "https://blog.localstack.cloud/serverless-best-practices-with-powertools/"
+        "url": "https://blog.localstack.cloud/serverless-best-practices-with-powertools/",
+        "date": "2024-10-02"
       },
       {
         "title": "Getting Started with AWS for Frontend Developers",
-        "url": "https://blog.localstack.cloud/aws-for-frontend-devs/"
+        "url": "https://blog.localstack.cloud/aws-for-frontend-devs/",
+        "date": "2024-09-25"
       },
       {
         "title": "Take Your Local Testing to the Cloud with Ephemeral Instances",
-        "url": "https://blog.localstack.cloud/2024-08-28-ephemeral-instances/"
+        "url": "https://blog.localstack.cloud/2024-08-28-ephemeral-instances/",
+        "date": "2024-08-28"
       }
     ]
   },
@@ -148,7 +183,8 @@
     "publications": [
       {
         "title": "Understanding Rendering in the Jamstack",
-        "url": "https://bejamas.io/blog/understanding-rendering-in-the-jamstack/"
+        "url": "https://bejamas.com/hub/guides/understanding-rendering-in-the-jamstack",
+        "date": "2021-12-14"
       }
     ]
   },
@@ -157,83 +193,103 @@
     "publications": [
       {
         "title": "Modern DevOps: The Shift to Operating Continuously",
-        "url": "https://launchdarkly.com/blog/modern-devops-operating-continuously/"
+        "url": "https://launchdarkly.com/blog/modern-devops-operating-continuously/",
+        "date": "2024-03-11"
       },
       {
         "title": "5 Ways LaunchDarkly Outshines DIY Feature Flags",
-        "url": "https://launchdarkly.com/blog/5-ways-launchdarkly-outshines-diy-feature-flags/"
+        "url": "https://launchdarkly.com/blog/5-ways-launchdarkly-outshines-diy-feature-flags/",
+        "date": "2024-02-15"
       },
       {
         "title": "Beta testing programs: everything you need to know",
-        "url": "https://launchdarkly.com/blog/beta-testing-programs/"
+        "url": "https://launchdarkly.com/blog/beta-testing-programs/",
+        "date": "2024-02-06"
       },
       {
         "title": "Targeted experiences with LaunchDarkly and Amazon Cognito",
-        "url": "https://launchdarkly.com/blog/targeted-experiences-with-launchdarkly-and-amazon-cognito/"
+        "url": "https://launchdarkly.com/blog/targeted-experiences-with-launchdarkly-and-amazon-cognito/",
+        "date": "2024-01-26"
       },
       {
         "title": "A beginner's guide to targeting with feature flags",
-        "url": "https://launchdarkly.com/blog/beginners-guide-to-targeting-with-feature-flags/"
+        "url": "https://launchdarkly.com/blog/beginners-guide-to-targeting-with-feature-flags/",
+        "date": "2024-01-04"
       },
       {
         "title": "Managing Entitlements in LaunchDarkly",
-        "url": "https://launchdarkly.com/blog/managing-entitlements-in-launchdarkly/"
+        "url": "https://launchdarkly.com/blog/managing-entitlements-in-launchdarkly/",
+        "date": "2023-10-06"
       },
       {
         "title": "Connect (Almost) Anything to LaunchDarkly with Zapier",
-        "url": "https://launchdarkly.com/blog/connect-almost-anything-to-launchdarkly-with-zapier/"
+        "url": "https://launchdarkly.com/blog/connect-almost-anything-to-launchdarkly-with-zapier/",
+        "date": "2023-08-01"
       },
       {
         "title": "How Near Instant Feature Flag Updates Ensure Your App Never Misses a Beat",
-        "url": "https://launchdarkly.com/blog/how-near-instant-feature-flag-updates-ensure-your-app/"
+        "url": "https://launchdarkly.com/blog/how-near-instant-feature-flag-updates-ensure-your-app/",
+        "date": "2023-04-11"
       },
       {
         "title": "The Five Stages of Feature Flag Adoption",
-        "url": "https://launchdarkly.com/blog/the-five-stages-of-feature-flag-adoption/"
+        "url": "https://launchdarkly.com/blog/the-five-stages-of-feature-flag-adoption/",
+        "date": "2023-03-14"
       },
       {
         "title": "Feature Flags: Beyond the Boolean",
-        "url": "https://launchdarkly.com/blog/feature-flags-beyond-the-boolean/"
+        "url": "https://launchdarkly.com/blog/feature-flags-beyond-the-boolean/",
+        "date": "2022-09-20"
       },
       {
         "title": "What to Expect When You're Expecting a LaunchDarkly SDK",
-        "url": "https://launchdarkly.com/blog/what-to-expect-launchdarkly-sdks/"
+        "url": "https://launchdarkly.com/blog/what-to-expect-launchdarkly-sdks/",
+        "date": "2022-08-04"
       },
       {
         "title": "Handling Data at the Edge with Cloudflare Workers",
-        "url": "https://launchdarkly.com/blog/handling-data-at-the-edge-with-cloudflare-workers/"
+        "url": "https://launchdarkly.com/blog/handling-data-at-the-edge-with-cloudflare-workers/",
+        "date": "2022-05-31"
       },
       {
         "title": "5 Ways Astro Makes Building Web Apps Better",
-        "url": "https://launchdarkly.com/blog/5-things-that-make-astro-unique-for-building-web-apps/"
+        "url": "https://launchdarkly.com/blog/5-things-that-make-astro-unique-for-building-web-apps/",
+        "date": "2022-05-12"
       },
       {
         "title": "Wrapping LaunchDarkly",
-        "url": "https://launchdarkly.com/blog/wrapping-launchdarkly/"
+        "url": "https://launchdarkly.com/blog/wrapping-launchdarkly/",
+        "date": "2022-04-26"
       },
       {
         "title": "Managing Feature Flags in Visual Studio Code",
-        "url": "https://launchdarkly.com/blog/managing-feature-flags-in-visual-studio-code/"
+        "url": "https://launchdarkly.com/blog/managing-feature-flags-in-visual-studio-code/",
+        "date": "2022-04-12"
       },
       {
         "title": "Getting Started with Svelte and LaunchDarkly",
-        "url": "https://launchdarkly.com/blog/getting-started-with-svelte-and-launchdarkly/"
+        "url": "https://launchdarkly.com/blog/getting-started-with-svelte-and-launchdarkly/",
+        "date": "2022-03-10"
       },
       {
         "title": "Using LaunchDarkly with TypeScript",
-        "url": "https://launchdarkly.com/blog/using-launchdarkly-with-typescript/"
+        "url": "https://launchdarkly.com/blog/using-launchdarkly-with-typescript/",
+        "date": "2022-02-17"
       },
       {
         "title": "Flagging at the Edge: Combining LaunchDarkly with edge functions",
-        "url": "https://launchdarkly.com/blog/how-the-serverless-edge-functions-work/"
+        "url": "https://launchdarkly.com/blog/how-the-serverless-edge-functions-work/",
+        "date": "2022-02-01"
       },
       {
         "title": "What's So Great About Next.js?",
-        "url": "https://launchdarkly.com/blog/whats-so-great-about-nextjs/"
+        "url": "https://launchdarkly.com/blog/whats-so-great-about-nextjs/",
+        "date": "2021-10-12"
       },
       {
         "title": "What Are Feature Flags?",
-        "url": "https://launchdarkly.com/blog/what-are-feature-flags/"
+        "url": "https://launchdarkly.com/blog/what-are-feature-flags/",
+        "date": "2020-11-30"
       }
     ]
   },
@@ -242,11 +298,13 @@
     "publications": [
       {
         "title": "Using Next.js with FaunaDB: How to Query the Database from Your App",
-        "url": "https://snipcart.com/blog/nextjs-faunadb"
+        "url": "https://snipcart.com/blog/nextjs-faunadb",
+        "date": "2021-03-25"
       },
       {
         "title": "Choosing the Best Static Site Generator for 2021",
-        "url": "https://snipcart.com/blog/choose-best-static-site-generator"
+        "url": "https://snipcart.com/blog/choose-best-static-site-generator",
+        "date": "2022-03-28"
       }
     ]
   },
@@ -255,15 +313,18 @@
     "publications": [
       {
         "title": "How to Use LaunchDarkly Feature Flags with Netlify",
-        "url": "https://www.netlify.com/blog/2021/10/27/how-to-use-launchdarkly-feature-flags-with-netlify/"
+        "url": "https://www.netlify.com/blog/2021/10/27/how-to-use-launchdarkly-feature-flags-with-netlify/",
+        "date": "2021-10-27"
       },
       {
         "title": "How to build a database-driven Jamstack site",
-        "url": "https://www.netlify.com/blog/2021/06/10/how-to-build-a-database-driven-jamstack-site/"
+        "url": "https://www.netlify.com/blog/2021/06/10/how-to-build-a-database-driven-jamstack-site/",
+        "date": "2021-06-10"
       },
       {
         "title": "Form Handling with the JAMstack and Netlify",
-        "url": "https://www.netlify.com/blog/2017/09/19/form-handling-with-the-jamstack-and-netlify/"
+        "url": "https://www.netlify.com/blog/2017/09/19/form-handling-with-the-jamstack-and-netlify/",
+        "date": "2017-09-19"
       }
     ]
   },
@@ -272,39 +333,57 @@
     "publications": [
       {
         "title": "What You Need to Know About GraphQL Directives",
-        "url": "https://stepzen.com/blog/graphql-directives"
+        "url": "https://stepzen.com/blog/graphql-directives",
+        "archiveUrl": "https://web.archive.org/web/20210430011035/https://stepzen.com/blog/graphql-directives",
+        "date": "2021-04-30"
       },
       {
         "title": "Turning a REST API into GraphQL Using StepZen",
-        "url": "https://stepzen.com/blog/rest-to-graphql"
+        "url": "https://stepzen.com/blog/rest-to-graphql",
+        "archiveUrl": "https://web.archive.org/web/20210330130815/https://stepzen.com/blog/rest-to-graphql",
+        "date": "2021-03-30"
       },
       {
         "title": "Creating a Developer Portfolio using Next.js, GraphQL, DEV and GitHub",
-        "url": "https://stepzen.com/blog/developer-portfolio"
+        "url": "https://stepzen.com/blog/developer-portfolio",
+        "archiveUrl": "https://web.archive.org/web/20210311181225/https://stepzen.com/blog/developer-portfolio",
+        "date": "2021-03-11"
       },
       {
         "title": "Learn To Love Your Jamstack BFF",
-        "url": "https://stepzen.com/blog/learn-to-love-your-jamstack-bff"
+        "url": "https://stepzen.com/blog/learn-to-love-your-jamstack-bff",
+        "archiveUrl": "https://web.archive.org/web/20210215172217/https://stepzen.com/blog/learn-to-love-your-jamstack-bff",
+        "date": "2021-02-15"
       },
       {
         "title": "Exploring JavaScript Client Libraries for GraphQL",
-        "url": "https://stepzen.com/blog/javascript-graphql-libraries"
+        "url": "https://stepzen.com/blog/javascript-graphql-libraries",
+        "archiveUrl": "https://web.archive.org/web/20241015023133/https://stepzen.com/blog/javascript-graphql-libraries",
+        "date": "2024-10-15"
       },
       {
         "title": "GraphQL and the Jamstack",
-        "url": "https://stepzen.com/blog/graphql-and-the-jamstack"
+        "url": "https://stepzen.com/blog/graphql-and-the-jamstack",
+        "archiveUrl": "https://web.archive.org/web/20250806181255/https://stepzen.com/blog/graphql-and-the-jamstack",
+        "date": "2025-08-06"
       },
       {
         "title": "Building Your First GraphQL API Using StepZen",
-        "url": "https://stepzen.com/blog/build-your-first-graphql-api"
+        "url": "https://stepzen.com/blog/build-your-first-graphql-api",
+        "archiveUrl": "https://web.archive.org/web/20201221194927/https://stepzen.com/blog/build-your-first-graphql-api",
+        "date": "2020-12-21"
       },
       {
         "title": "Consuming GraphQL in Plain JavaScript",
-        "url": "https://stepzen.com/blog/consume-graphql-in-javascript"
+        "url": "https://stepzen.com/blog/consume-graphql-in-javascript",
+        "archiveUrl": "https://web.archive.org/web/20201216182324/https://stepzen.com/blog/consume-graphql-in-javascript",
+        "date": "2020-12-16"
       },
       {
         "title": "How to Write GraphQL Queries",
-        "url": "https://stepzen.com/blog/how-to-write-graphql-queries"
+        "url": "https://stepzen.com/blog/how-to-write-graphql-queries",
+        "archiveUrl": "https://web.archive.org/web/20201203204839/https://stepzen.com/blog/how-to-write-graphql-queries",
+        "date": "2020-12-03"
       }
     ]
   },
@@ -313,99 +392,147 @@
     "publications": [
       {
         "title": "Own Your Content, Broaden Your Audience",
-        "url": "https://www.stackbit.com/blog/devto-stackbit/"
+        "url": "https://www.stackbit.com/blog/devto-stackbit/",
+        "archiveUrl": "https://web.archive.org/web/20231231072120/https://www.stackbit.com/blog/devto-stackbit",
+        "date": "2023-12-31"
       },
       {
         "title": "A Complete Guide to Netlify Forms",
-        "url": "https://www.stackbit.com/blog/complete-guide-netlify-forms/"
+        "url": "https://www.stackbit.com/blog/complete-guide-netlify-forms/",
+        "archiveUrl": "https://web.archive.org/web/20200916144835/https://www.stackbit.com/blog/complete-guide-netlify-forms/",
+        "date": "2020-09-16"
       },
       {
         "title": "Adding a Mailing List to Your Gatsby Site",
-        "url": "https://www.stackbit.com/blog/jamstack-gatsby-mailchimp/"
+        "url": "https://www.stackbit.com/blog/jamstack-gatsby-mailchimp/",
+        "archiveUrl": "https://web.archive.org/web/20200813233025/https://www.stackbit.com/blog/jamstack-gatsby-mailchimp/",
+        "date": "2020-08-13"
       },
       {
         "title": "Adding Search to Your Gatsby Site",
-        "url": "https://www.stackbit.com/blog/gatsby-search/"
+        "url": "https://www.stackbit.com/blog/gatsby-search/",
+        "archiveUrl": "https://web.archive.org/web/20200805130904/https://www.stackbit.com/blog/gatsby-search/",
+        "date": "2020-08-05"
       },
       {
         "title": "Getting Started with Next.js for Jamstack Development",
-        "url": "https://www.stackbit.com/blog/getting-started-nextjs-sourcebit/"
+        "url": "https://www.stackbit.com/blog/getting-started-nextjs-sourcebit/",
+        "archiveUrl": "https://web.archive.org/web/20250428115046/https://www.stackbit.com/blog/getting-started-nextjs-sourcebit",
+        "date": "2025-04-28"
       },
       {
         "title": "4 Tips to Improve Your Stackbit Gatsby Site",
-        "url": "https://www.stackbit.com/blog/stackbit-gatsby-site-improvements/"
+        "url": "https://www.stackbit.com/blog/stackbit-gatsby-site-improvements/",
+        "archiveUrl": "https://web.archive.org/web/20250428131258/https://www.stackbit.com/blog/stackbit-gatsby-site-improvements",
+        "date": "2025-04-28"
       },
       {
         "title": "4 New Tools to Watch in the Jamstack Ecosystem",
-        "url": "https://www.stackbit.com/blog/4-new-jamstack-tools/"
+        "url": "https://www.stackbit.com/blog/4-new-jamstack-tools/",
+        "archiveUrl": "https://web.archive.org/web/20200802034738/https://www.stackbit.com/blog/4-new-jamstack-tools/",
+        "date": "2020-08-02"
       },
       {
         "title": "What is Markdown and Why Does it Matter to the Jamstack?",
-        "url": "https://www.stackbit.com/blog/what-is-markdown/"
+        "url": "https://www.stackbit.com/blog/what-is-markdown/",
+        "archiveUrl": "https://web.archive.org/web/20200525070157/https://www.stackbit.com/blog/what-is-markdown/",
+        "date": "2020-05-25"
       },
       {
         "title": "Understanding Content Modeling in a Headless World",
-        "url": "https://www.stackbit.com/blog/content-modeling-headless/"
+        "url": "https://www.stackbit.com/blog/content-modeling-headless/",
+        "archiveUrl": "https://web.archive.org/web/20200507222635/https://www.stackbit.com/blog/content-modeling-headless/",
+        "date": "2020-05-07"
       },
       {
         "title": "What the Heck are Content Slugs and How Do I Use Them?",
-        "url": "https://www.stackbit.com/blog/what-is-a-content-slug/"
+        "url": "https://www.stackbit.com/blog/what-is-a-content-slug/",
+        "archiveUrl": "https://web.archive.org/web/20200813230459/https://www.stackbit.com/blog/what-is-a-content-slug/",
+        "date": "2020-08-13"
       },
       {
         "title": "Advanced Hugo Template Tips and Tricks",
-        "url": "https://www.stackbit.com/blog/advanced-hugo-templates/"
+        "url": "https://www.stackbit.com/blog/advanced-hugo-templates/",
+        "archiveUrl": "https://web.archive.org/web/20200502184236/https://www.stackbit.com/blog/advanced-hugo-templates/",
+        "date": "2020-05-02"
       },
       {
         "title": "Managing Content Relationships in Git-based Headless CMS",
-        "url": "https://www.stackbit.com/blog/git-based-cms-relationships/"
+        "url": "https://www.stackbit.com/blog/git-based-cms-relationships/",
+        "archiveUrl": "https://web.archive.org/web/20200416074613/https://www.stackbit.com/blog/git-based-cms-relationships/",
+        "date": "2020-04-16"
       },
       {
         "title": "Building Documentation Sites with the JAMstack",
-        "url": "https://www.stackbit.com/blog/jamstack-documentation-sites/"
+        "url": "https://www.stackbit.com/blog/jamstack-documentation-sites/",
+        "archiveUrl": "https://web.archive.org/web/20200410151516/https://www.stackbit.com/blog/jamstack-documentation-sites/",
+        "date": "2020-04-10"
       },
       {
         "title": "How to Choose Your Static Site Generator",
-        "url": "https://www.stackbit.com/blog/choosing-your-ssg/"
+        "url": "https://www.stackbit.com/blog/choosing-your-ssg/",
+        "archiveUrl": "https://web.archive.org/web/20200814001536/https://www.stackbit.com/blog/choosing-your-ssg/",
+        "date": "2020-08-14"
       },
       {
         "title": "Best Practices for Working with the JAMstack and an API-based CMS",
-        "url": "https://www.stackbit.com/blog/jamstack-api-based-cms/"
+        "url": "https://www.stackbit.com/blog/jamstack-api-based-cms/",
+        "archiveUrl": "https://web.archive.org/web/20200416084148/https://www.stackbit.com/blog/jamstack-api-based-cms/",
+        "date": "2020-04-16"
       },
       {
         "title": "Build Your First Sourcebit Plugin",
-        "url": "https://www.stackbit.com/blog/sourcebit-plugin/"
+        "url": "https://www.stackbit.com/blog/sourcebit-plugin/",
+        "archiveUrl": "https://web.archive.org/web/20200930181838/https://www.stackbit.com/blog/sourcebit-plugin/",
+        "date": "2020-09-30"
       },
       {
         "title": "Getting Started with Ecommerce and the JAMstack",
-        "url": "https://www.stackbit.com/blog/ecommerce-jamstack/"
+        "url": "https://www.stackbit.com/blog/ecommerce-jamstack/",
+        "archiveUrl": "https://web.archive.org/web/20200930173910/https://www.stackbit.com/blog/ecommerce-jamstack/",
+        "date": "2020-09-30"
       },
       {
         "title": "Data-driven JAMstack with Sourcebit",
-        "url": "https://www.stackbit.com/blog/data-driven-jamstack-sourcebit/"
+        "url": "https://www.stackbit.com/blog/data-driven-jamstack-sourcebit/",
+        "archiveUrl": "https://web.archive.org/web/20200228201142/https://www.stackbit.com/blog/data-driven-jamstack-sourcebit/",
+        "date": "2020-02-28"
       },
       {
         "title": "3 Strategies for Migrating from Wordpress to JAMstack",
-        "url": "https://www.stackbit.com/blog/wordpress-to-jamstack/"
+        "url": "https://www.stackbit.com/blog/wordpress-to-jamstack/",
+        "archiveUrl": "https://web.archive.org/web/20250428130018/https://www.stackbit.com/blog/wordpress-to-jamstack",
+        "date": "2025-04-28"
       },
       {
         "title": "Build Your Own JAMstack API with Netlify Functions and Zapier Webhooks, Part 2",
-        "url": "https://www.stackbit.com/blog/jamstack-api-zapier-webhooks-2/"
+        "url": "https://www.stackbit.com/blog/jamstack-api-zapier-webhooks-2/",
+        "archiveUrl": "https://web.archive.org/web/20200316064555/https://www.stackbit.com/blog/jamstack-api-zapier-webhooks-2/",
+        "date": "2020-03-16"
       },
       {
         "title": "Build Your Own JAMstack API with Netlify Functions and Zapier Webhooks, Part 1",
-        "url": "https://www.stackbit.com/blog/jamstack-api-zapier-webhooks-1/"
+        "url": "https://www.stackbit.com/blog/jamstack-api-zapier-webhooks-1/",
+        "archiveUrl": "https://web.archive.org/web/20250117114806/https://www.stackbit.com/blog/jamstack-api-zapier-webhooks-1",
+        "date": "2025-01-17"
       },
       {
         "title": "Creating a JAMstack Site with Open Authoring Using Netlify CMS",
-        "url": "https://www.stackbit.com/blog/open-authoring-netlifycms/"
+        "url": "https://www.stackbit.com/blog/open-authoring-netlifycms/",
+        "archiveUrl": "https://web.archive.org/web/20200930181605/https://www.stackbit.com/blog/open-authoring-netlifycms/",
+        "date": "2020-09-30"
       },
       {
         "title": "15 JAMstack Resources You Need as a Web Developer",
-        "url": "https://www.stackbit.com/blog/15-jamstack-resources/"
+        "url": "https://www.stackbit.com/blog/15-jamstack-resources/",
+        "archiveUrl": "https://web.archive.org/web/20191215161810/https://www.stackbit.com/blog/15-jamstack-resources/",
+        "date": "2019-12-15"
       },
       {
         "title": "Gating Content in JAMstack Sites",
-        "url": "https://www.stackbit.com/blog/gating-content-jamstack/"
+        "url": "https://www.stackbit.com/blog/gating-content-jamstack/",
+        "archiveUrl": "https://web.archive.org/web/20191215161827/https://www.stackbit.com/blog/gating-content-jamstack/",
+        "date": "2019-12-15"
       }
     ]
   },
@@ -414,7 +541,8 @@
     "publications": [
       {
         "title": "4 Things Developers Take for Granted That Used to Be Really Hard",
-        "url": "https://dev.to/remotesynth/4-things-developers-take-for-granted-that-used-to-be-really-hard-2fd3"
+        "url": "https://dev.to/remotesynth/4-things-developers-take-for-granted-that-used-to-be-really-hard-2fd3",
+        "date": "2018-08-29"
       }
     ]
   },
@@ -423,85 +551,113 @@
     "publications": [
       {
         "title": "Building a Conversational Bot with JavaScript and Node.js",
-        "url": "http://developer.telerik.com/content-types/tutorials/building-conversational-bot-javascript/"
+        "url": "https://www.telerik.com/blogs/building-conversational-bot-javascript",
+        "date": "2017-03-23"
       },
       {
         "title": "Can Google's Guetzli JPEG Encoder Help Solve Web Page Bloat?",
-        "url": "http://developer.telerik.com/content-types/opinion/can-googles-guetzli-jpeg-encoder-help-solve-web-page-bloat/"
+        "url": "https://www.telerik.com/blogs/can-googles-guetzli-jpeg-encoder-help-solve-web-page-bloat",
+        "date": "2017-03-21"
       },
       {
         "title": "A Guide to Browser Scroll Animations",
-        "url": "http://developer.telerik.com/featured/guide-browser-scroll-animations/"
+        "url": "https://www.telerik.com/blogs/guide-browser-scroll-animations",
+        "date": "2016-09-08"
       },
       {
         "title": "Alexa, Can I Use?",
-        "url": "http://developer.telerik.com/featured/alexa-can-use/"
+        "url": "https://www.telerik.com/blogs/alexa-can-use",
+        "date": "2016-06-08"
       },
       {
         "title": "Your Open Source Project is Considered Harmful",
-        "url": "http://developer.telerik.com/featured/open-source-project-considered-harmful/"
+        "url": "https://www.telerik.com/blogs/open-source-project-considered-harmful",
+        "date": "2016-03-28"
       },
       {
         "title": "Is left-pad Indicative of a Fragile JavaScript Ecosystem?",
-        "url": "http://developer.telerik.com/featured/left-pad-indicative-fragile-javascript-ecosystem/",
-        "coauthors": ["TJ VanToll", "Cody Lindley"]
+        "url": "https://www.telerik.com/blogs/left-pad-indicative-fragile-javascript-ecosystem",
+        "date": "2016-03-23",
+        "coauthors": [
+          "TJ VanToll",
+          "Cody Lindley"
+        ]
       },
       {
         "title": "What I Learned from Working in Failed Platforms",
-        "url": "http://developer.telerik.com/featured/what-i-learned-from-working-in-failed-platforms/"
+        "url": "https://www.telerik.com/blogs/what-i-learned-from-working-in-failed-platforms",
+        "date": "2015-12-07"
       },
       {
         "title": "Creating Node.js Command Line Utilities to Improve Your Workflow",
-        "url": "http://developer.telerik.com/featured/creating-node-js-command-line-utilities-improve-workflow/"
+        "url": "https://www.telerik.com/blogs/creating-node-js-command-line-utilities-improve-workflow",
+        "date": "2015-11-23"
       },
       {
         "title": "Spying on James Bond with Node.js",
-        "url": "http://developer.telerik.com/featured/spying-on-james-bond-with-node-js/"
+        "url": "https://www.telerik.com/blogs/spying-on-james-bond-with-node-js",
+        "date": "2015-11-16"
       },
       {
         "title": "Defining a New Breed of Cross-Platform Mobile Apps",
         "url": "http://developer.telerik.com/featured/defining-a-new-breed-of-cross-platform-mobile-apps/",
-        "coauthors": ["TJ VanToll"]
+        "archiveUrl": "https://web.archive.org/web/20151030002252/http://developer.telerik.com/featured/defining-a-new-breed-of-cross-platform-mobile-apps/",
+        "date": "2015-10-30",
+        "coauthors": [
+          "TJ VanToll"
+        ]
       },
       {
         "title": "Lazy Loading Images on the Web",
-        "url": "http://developer.telerik.com/featured/lazy-loading-images-on-the-web/"
+        "url": "http://developer.telerik.com/featured/lazy-loading-images-on-the-web/",
+        "archiveUrl": "https://web.archive.org/web/20151021234044/http://developer.telerik.com/featured/lazy-loading-images-on-the-web/",
+        "date": "2015-10-21"
       },
       {
         "title": "Static Site or CMS?",
-        "url": "http://developer.telerik.com/featured/static-site-or-cms/"
+        "url": "http://developer.telerik.com/featured/static-site-or-cms/",
+        "archiveUrl": "https://web.archive.org/web/20151002020010/http://developer.telerik.com/featured/static-site-or-cms/",
+        "date": "2015-10"
       },
       {
         "title": "Battle of the Free Code Editors",
-        "url": "http://developer.telerik.com/featured/battle-of-the-free-code-editors/"
+        "url": "https://www.telerik.com/blogs/battle-of-the-free-code-editors",
+        "date": "2015-09-17"
       },
       {
         "title": "What's Wrong with the Web?",
-        "url": "http://developer.telerik.com/featured/whats-wrong-with-the-web/"
+        "url": "https://www.telerik.com/blogs/whats-wrong-with-the-web",
+        "date": "2015-08-03"
       },
       {
         "title": "Practical Web Audio",
-        "url": "http://developer.telerik.com/featured/practical-web-audio/"
+        "url": "https://www.telerik.com/blogs/practical-web-audio",
+        "date": "2015-05-13"
       },
       {
         "title": "Getting Started with Jekyll",
-        "url": "http://developer.telerik.com/featured/getting-started-with-jekyll/"
+        "url": "https://www.telerik.com/blogs/getting-started-with-jekyll",
+        "date": "2015-03-16"
       },
       {
         "title": "Adding Audio to Web Apps",
-        "url": "http://developer.telerik.com/featured/adding-audio-to-web-apps/"
+        "url": "https://www.telerik.com/blogs/adding-audio-to-web-apps",
+        "date": "2015-03-09"
       },
       {
         "title": "3 Useful Tools for Local Web Development & Testing",
-        "url": "http://developer.telerik.com/featured/3-useful-tools-local-development-testing/"
+        "url": "http://developer.telerik.com/featured/3-useful-tools-local-development-testing/",
+        "date": "2014-12-02"
       },
       {
         "title": "Can AngularJS Maintain Its Dominance?",
-        "url": "http://developer.telerik.com/featured/can-angularjs-maintain-dominance/"
+        "url": "http://developer.telerik.com/featured/can-angularjs-maintain-dominance/",
+        "date": "2014-10-30"
       },
       {
         "title": "Static Site Engine Battle Royale",
-        "url": "http://developer.telerik.com/featured/comparing-static-site-engines/"
+        "url": "https://www.telerik.com/blogs/comparing-static-site-engines",
+        "date": "2014-07-07"
       }
     ]
   },
@@ -510,19 +666,23 @@
     "publications": [
       {
         "title": "4 Ways to Serverless with Kinvey",
-        "url": "https://www.progress.com/blogs/4-ways-to-serverless-in-kinvey"
+        "url": "https://www.progress.com/blogs/4-ways-to-serverless-in-kinvey",
+        "date": "2019-01-25"
       },
       {
         "title": "Top 4 Developer Features in Kinvey",
-        "url": "https://www.progress.com/blogs/top-4-developer-features-in-kinvey"
+        "url": "https://www.progress.com/blogs/top-4-developer-features-in-kinvey",
+        "date": "2018-04-25"
       },
       {
         "title": "Getting Started with Kinvey FlexServices",
-        "url": "https://www.progress.com/blogs/getting-started-with-kinvey-flexservices"
+        "url": "https://www.progress.com/blogs/getting-started-with-kinvey-flexservices",
+        "date": "2018-04-17"
       },
       {
         "title": "Fast Start to Serverless Enterprise Apps on Kinvey",
-        "url": "https://www.progress.com/blogs/fast-start-to-serverless-enterprise-apps-on-kinvey"
+        "url": "https://www.progress.com/blogs/fast-start-to-serverless-enterprise-apps-on-kinvey",
+        "date": "2018-09-18"
       }
     ]
   },
@@ -531,19 +691,23 @@
     "publications": [
       {
         "title": "Developing and Testing of Kinvey Flex Services the Easier Way",
-        "url": "https://www.kinvey.com/developing-and-testing-of-kinvey-flex-services-the-easier-way/"
+        "url": "https://www.progress.com/blogs/developing-and-testing-of-kinvey-flex-services-the-easier-way",
+        "date": "2018-05-11"
       },
       {
         "title": "Enterprise Authentication with Kinvey",
-        "url": "https://www.kinvey.com/enterprise-authentication-kinvey/"
+        "url": "https://www.progress.com/blogs/enterprise-authentication-kinvey",
+        "date": "2018-05-21"
       },
       {
         "title": "Using Kinvey's RapidData Connectors",
-        "url": "https://www.kinvey.com/using-kinveys-rapiddata-connectors/"
+        "url": "https://www.progress.com/blogs/using-kinveys-rapiddata-connectors",
+        "date": "2018-05-17"
       },
       {
         "title": "Understanding Users in Kinvey",
-        "url": "https://www.kinvey.com/understanding-users-kinvey/"
+        "url": "https://www.progress.com/blogs/understanding-users-kinvey",
+        "date": "2018-05-16"
       }
     ]
   },
@@ -552,15 +716,21 @@
     "publications": [
       {
         "title": "How to Get Set Up with Kinvey for Your Hackathon App",
-        "url": "https://www.angularattack.com/blog/kinvey-set-up"
+        "url": "https://www.angularattack.com/blog/kinvey-set-up",
+        "archiveUrl": "https://web.archive.org/web/20190823161114/https://www.angularattack.com/blog/kinvey-set-up",
+        "date": "2019-08-23"
       },
       {
         "title": "Get the Things Every Hackathon App Needs with Kinvey",
-        "url": "https://www.angularattack.com/blog/kinvey"
+        "url": "https://www.angularattack.com/blog/kinvey",
+        "archiveUrl": "https://web.archive.org/web/20190823163716/https://www.angularattack.com/blog/kinvey",
+        "date": "2019-08-23"
       },
       {
         "title": "Key Kinvey Resources for Your App Development",
-        "url": "https://www.angularattack.com/blog/kinvey-resources"
+        "url": "https://www.angularattack.com/blog/kinvey-resources",
+        "archiveUrl": "https://web.archive.org/web/20200927025557/https://www.angularattack.com/blog/kinvey-resources",
+        "date": "2020-09-27"
       }
     ]
   },
@@ -568,20 +738,24 @@
     "publisher": "Mobile Business Insights (IBM)",
     "publications": [
       {
-        "title": "Making sense of the mobile development ecosystem – Part 1: The mobile web",
-        "url": "http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-1-the-mobile-web/"
+        "title": "Making sense of the mobile development ecosystem \u2013 Part 1: The mobile web",
+        "url": "http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-1-the-mobile-web/",
+        "date": "2016-05"
       },
       {
-        "title": "Making sense of the mobile development ecosystem – Part 2: Hybrid apps and hybrid/native apps",
-        "url": "http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-2-hybrid-apps-and-hybridnative-apps/"
+        "title": "Making sense of the mobile development ecosystem \u2013 Part 2: Hybrid apps and hybrid/native apps",
+        "url": "http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-2-hybrid-apps-and-hybridnative-apps/",
+        "date": "2016-05"
       },
       {
-        "title": "Making sense of the mobile development ecosystem — Part 3: JavaScript native, cross-compiled and native apps",
-        "url": "http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-3-javascript-native-cross-compiled-and-native-apps/"
+        "title": "Making sense of the mobile development ecosystem \u2014 Part 3: JavaScript native, cross-compiled and native apps",
+        "url": "http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-3-javascript-native-cross-compiled-and-native-apps/",
+        "date": "2016-05"
       },
       {
-        "title": "Making sense of the mobile development ecosystem — Part 4: Which mobile option should you choose?",
-        "url": "http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-4-which-mobile-option-should-you-choose/"
+        "title": "Making sense of the mobile development ecosystem \u2014 Part 4: Which mobile option should you choose?",
+        "url": "http://mobilebusinessinsights.com/2016/05/making-sense-of-the-mobile-development-ecosystem-part-4-which-mobile-option-should-you-choose/",
+        "date": "2016-05"
       }
     ]
   },
@@ -590,7 +764,8 @@
     "publications": [
       {
         "title": "With Minecraft, Microsoft gains young developer mindshare",
-        "url": "http://sdtimes.com/guest-view-minecraft-microsoft-gains-young-developer-mindshare/"
+        "url": "https://sdtimes.com/code-org/guest-view-minecraft-microsoft-gains-young-developer-mindshare/",
+        "date": "2014-09-22"
       }
     ]
   },
@@ -599,7 +774,9 @@
     "publications": [
       {
         "title": "The Role of JavaScript in Cognitive Application Development",
-        "url": "http://www.developer.com/lang/jscript/the-role-of-javascript-in-cognitive-application-development.html"
+        "url": "http://www.developer.com/lang/jscript/the-role-of-javascript-in-cognitive-application-development.html",
+        "archiveUrl": "https://web.archive.org/web/20170610094852/http://www.developer.com/lang/jscript/the-role-of-javascript-in-cognitive-application-development.html",
+        "date": "2017-06-10"
       }
     ]
   },
@@ -608,7 +785,9 @@
     "publications": [
       {
         "title": "What I Learned From Working In Failed Platforms",
-        "url": "http://www.bsminfo.com/doc/what-i-learned-from-working-in-failed-platforms-0001"
+        "url": "http://www.bsminfo.com/doc/what-i-learned-from-working-in-failed-platforms-0001",
+        "archiveUrl": "https://web.archive.org/web/20160316035653/http://www.bsminfo.com/doc/what-i-learned-from-working-in-failed-platforms-0001",
+        "date": "2016-03-16"
       }
     ]
   },
@@ -617,15 +796,21 @@
     "publications": [
       {
         "title": "Creating Posts, Custom Metadata, and Data in Wintersmith",
-        "url": "http://www.sitepoint.com/creating-posts-custom-metadata-data-wintersmith/"
+        "url": "http://www.sitepoint.com/creating-posts-custom-metadata-data-wintersmith/",
+        "archiveUrl": "https://web.archive.org/web/20150409165702/http://www.sitepoint.com/creating-posts-custom-metadata-data-wintersmith/",
+        "date": "2015-04-09"
       },
       {
         "title": "Getting Started with Wintersmith: A Node.js-based Static Site Generator",
-        "url": "http://www.sitepoint.com/getting-started-wintersmith-nodejs-static-site-generator/"
+        "url": "http://www.sitepoint.com/getting-started-wintersmith-nodejs-static-site-generator/",
+        "archiveUrl": "https://web.archive.org/web/20150402191551/http://www.sitepoint.com/getting-started-wintersmith-nodejs-static-site-generator/",
+        "date": "2015-04-02"
       },
       {
         "title": "ColdFusion 8 - Believe the Hype",
-        "url": "http://www.sitepoint.com/article/coldfusion-8-believe-hype"
+        "url": "http://www.sitepoint.com/article/coldfusion-8-believe-hype",
+        "archiveUrl": "https://web.archive.org/web/20080225150554/http://www.sitepoint.com/article/coldfusion-8-believe-hype",
+        "date": "2008-02-25"
       }
     ]
   },
@@ -634,7 +819,8 @@
     "publications": [
       {
         "title": "Add depth to your project with practical web audio",
-        "url": "http://radar.oreilly.com/2015/06/add-depth-to-your-project-with-practical-web-audio.html"
+        "url": "http://radar.oreilly.com/2015/06/add-depth-to-your-project-with-practical-web-audio.html",
+        "date": "2015-06"
       }
     ]
   },
@@ -643,7 +829,8 @@
     "publications": [
       {
         "title": "Is the Future of the Web Spoken?",
-        "url": "https://www.digitalthirst.com/item/is-the-future-of-the-web-spoken-"
+        "url": "https://www.digitalthirst.com/item/is-the-future-of-the-web-spoken-",
+        "date": "2015"
       }
     ]
   },
@@ -653,117 +840,166 @@
       {
         "title": "Original Founder, Publisher, Weekly Roundup Contributor",
         "url": "http://flippinawesome.org/",
+        "archiveUrl": "https://web.archive.org/web/20130329155330/http://flippinawesome.org/",
+        "date": "2013-03-29",
         "note": "founder"
       },
       {
         "title": "Rethinking DOM Traversal",
-        "url": "http://modernweb.com/2014/05/12/rethinking-dom-traversal/"
+        "url": "http://modernweb.com/2014/05/12/rethinking-dom-traversal/",
+        "archiveUrl": "https://web.archive.org/web/20140718042410/http://modernweb.com/2014/05/12/rethinking-dom-traversal",
+        "date": "2014-05-12"
       },
       {
         "title": "Paralyzed by Choice in Front-end Development",
-        "url": "http://modernweb.com/2014/03/31/paralyzed-by-choice-in-front-end-development/"
+        "url": "http://modernweb.com/2014/03/31/paralyzed-by-choice-in-front-end-development/",
+        "archiveUrl": "https://web.archive.org/web/20141028201952/http://modernweb.com/2014/03/31/paralyzed-by-choice-in-front-end-development/",
+        "date": "2014-03-31"
       },
       {
         "title": "Creating Sound with the Web Audio API and Oscillators",
-        "url": "http://modernweb.com/2014/03/31/creating-sound-with-the-web-audio-api-and-oscillators/"
+        "url": "http://modernweb.com/2014/03/31/creating-sound-with-the-web-audio-api-and-oscillators/",
+        "archiveUrl": "https://web.archive.org/web/20140924174654/http://modernweb.com/2014/03/31/creating-sound-with-the-web-audio-api-and-oscillators/",
+        "date": "2014-03-31"
       },
       {
         "title": "Building a Successful Content Site",
-        "url": "http://modernweb.com/2014/03/17/building-a-successful-content-site/"
+        "url": "http://modernweb.com/2014/03/17/building-a-successful-content-site/",
+        "archiveUrl": "https://web.archive.org/web/20160817085014/http://modernweb.com/2014/03/17/building-a-successful-content-site/",
+        "date": "2014-03-17"
       },
       {
         "title": "CSS for Beginners with Dreamweaver",
-        "url": "http://modernweb.com/2014/02/17/css-for-beginners-with-dreamweaver/"
+        "url": "http://modernweb.com/2014/02/17/css-for-beginners-with-dreamweaver/",
+        "archiveUrl": "https://web.archive.org/web/20140921004932/http://modernweb.com/2014/02/17/css-for-beginners-with-dreamweaver/",
+        "date": "2014-02-17"
       },
       {
-        "title": "Topic Undefined – Episode 7",
+        "title": "Topic Undefined \u2013 Episode 7",
         "url": "http://modernweb.com/topic-undefined/topic-undefined-episode-7/",
+        "archiveUrl": "https://web.archive.org/web/20140715021604/http://modernweb.com/topic-undefined/topic-undefined-episode-7/",
+        "date": "2014-07",
         "note": "podcast"
       },
       {
         "title": "Using CSS Regions in Responsive Designs",
-        "url": "http://modernweb.com/2014/01/27/using-css-regions-in-responsive-designs/"
+        "url": "http://modernweb.com/2014/01/27/using-css-regions-in-responsive-designs/",
+        "archiveUrl": "https://web.archive.org/web/20140819204230/http://modernweb.com/2014/01/27/using-css-regions-in-responsive-designs/",
+        "date": "2014-01-27"
       },
       {
-        "title": "2014 – What Web Developers Will Need to Know",
-        "url": "http://modernweb.com/2014/01/06/2014-what-web-developers-will-need-to-know/"
+        "title": "2014 \u2013 What Web Developers Will Need to Know",
+        "url": "http://modernweb.com/2014/01/06/2014-what-web-developers-will-need-to-know/",
+        "archiveUrl": "https://web.archive.org/web/20140919084242/http://modernweb.com/2014/01/06/2014-what-web-developers-will-need-to-know/",
+        "date": "2014-01-06"
       },
       {
-        "title": "2013 – The Year in Web Development",
-        "url": "http://modernweb.com/2014/01/06/2013-the-year-in-web-development/"
+        "title": "2013 \u2013 The Year in Web Development",
+        "url": "http://modernweb.com/2014/01/06/2013-the-year-in-web-development/",
+        "archiveUrl": "https://web.archive.org/web/20140918011830/http://modernweb.com/2014/01/06/2013-the-year-in-web-development/",
+        "date": "2014-01-06"
       },
       {
-        "title": "Topic Undefined – Episode 6",
+        "title": "Topic Undefined \u2013 Episode 6",
         "url": "http://modernweb.com/topic-undefined/topic-undefined-episode-6/",
+        "date": "2014",
         "note": "podcast"
       },
       {
-        "title": "Topic Undefined – Episode 5",
+        "title": "Topic Undefined \u2013 Episode 5",
         "url": "http://modernweb.com/topic-undefined/topic-undefined-episode-5/",
+        "date": "2013",
         "note": "podcast"
       },
       {
         "title": "Stop Focusing on Tools",
-        "url": "http://modernweb.com/2013/09/16/stop-focusing-on-tools/"
+        "url": "http://modernweb.com/2013/09/16/stop-focusing-on-tools/",
+        "archiveUrl": "https://web.archive.org/web/20141215181151/http://modernweb.com/2013/09/16/stop-focusing-on-tools/",
+        "date": "2013-09-16"
       },
       {
         "title": "Retro Game Music using Web Audio and Band.js",
-        "url": "http://modernweb.com/2013/09/09/retro-game-music-using-web-audio-and-band-js/"
+        "url": "http://modernweb.com/2013/09/09/retro-game-music-using-web-audio-and-band-js/",
+        "archiveUrl": "https://web.archive.org/web/20141028041424/http://modernweb.com/2013/09/09/retro-game-music-using-web-audio-and-band-js/",
+        "date": "2013-09-09"
       },
       {
-        "title": "Topic Undefined – Episode 3",
+        "title": "Topic Undefined \u2013 Episode 3",
         "url": "http://modernweb.com/topic-undefined/topic-undefined-episode-3/",
+        "date": "2013",
         "note": "podcast"
       },
       {
         "title": "DOM Traversal and Manipulation with Voyeur",
-        "url": "http://modernweb.com/2013/07/22/dom-traversal-and-manipulation-with-voyeur/"
+        "url": "http://modernweb.com/2013/07/22/dom-traversal-and-manipulation-with-voyeur/",
+        "archiveUrl": "https://web.archive.org/web/20141215181104/http://modernweb.com/2013/07/22/dom-traversal-and-manipulation-with-voyeur/",
+        "date": "2013-07-22"
       },
       {
-        "title": "Topic Undefined – Episode 2",
+        "title": "Topic Undefined \u2013 Episode 2",
         "url": "http://modernweb.com/topic-undefined/topic-undefined-episode-2/",
+        "date": "2013",
         "note": "podcast"
       },
       {
-        "title": "Topic Undefined – Episode 1",
+        "title": "Topic Undefined \u2013 Episode 1",
         "url": "http://modernweb.com/topic-undefined/topic-undefined-episode-1/",
+        "date": "2013",
         "note": "podcast"
       },
       {
         "title": "Drawing and Animating with Two.js and Illustrator",
-        "url": "http://modernweb.com/2013/06/10/drawing-and-animating-with-two-js-and-illustrator/"
+        "url": "http://modernweb.com/2013/06/10/drawing-and-animating-with-two-js-and-illustrator/",
+        "archiveUrl": "https://web.archive.org/web/20141215185629/http://modernweb.com/2013/06/10/drawing-and-animating-with-two-js-and-illustrator/",
+        "date": "2013-06-10"
       },
       {
         "title": "Quick and Easy Local and Device Web App Testing",
-        "url": "http://modernweb.com/2013/05/06/quick-and-easy-local-and-device-web-app-testing/"
+        "url": "http://modernweb.com/2013/05/06/quick-and-easy-local-and-device-web-app-testing/",
+        "archiveUrl": "https://web.archive.org/web/20141215213627/http://modernweb.com/2013/05/06/quick-and-easy-local-and-device-web-app-testing/",
+        "date": "2013-05-06"
       },
       {
-        "title": "Create Your First Mobile App with PhoneGap Build – Using the Notification API",
-        "url": "http://modernweb.com/2013/04/29/phonegap-build-step-7/"
+        "title": "Create Your First Mobile App with PhoneGap Build \u2013 Using the Notification API",
+        "url": "http://modernweb.com/2013/04/29/phonegap-build-step-7/",
+        "archiveUrl": "https://web.archive.org/web/20140715013842/http://modernweb.com/2013/04/29/phonegap-build-step-7/",
+        "date": "2013-04-29"
       },
       {
-        "title": "Create Your First Mobile App with PhoneGap Build – Using the Storage API",
-        "url": "http://modernweb.com/2013/04/22/phonegap-build-step-6/"
+        "title": "Create Your First Mobile App with PhoneGap Build \u2013 Using the Storage API",
+        "url": "http://modernweb.com/2013/04/22/phonegap-build-step-6/",
+        "archiveUrl": "https://web.archive.org/web/20140714010521/http://modernweb.com/2013/04/22/phonegap-build-step-6/?",
+        "date": "2013-04-22"
       },
       {
-        "title": "Create Your First Mobile App with PhoneGap Build – Adding Pages with jQuery Mobile",
-        "url": "http://modernweb.com/2013/04/15/phonegap-build-step-5/"
+        "title": "Create Your First Mobile App with PhoneGap Build \u2013 Adding Pages with jQuery Mobile",
+        "url": "http://modernweb.com/2013/04/15/phonegap-build-step-5/",
+        "archiveUrl": "https://web.archive.org/web/20140715013832/http://modernweb.com/2013/04/15/phonegap-build-step-5/",
+        "date": "2013-04-15"
       },
       {
-        "title": "Create Your First Mobile App with PhoneGap Build – Adding jQuery Mobile",
-        "url": "http://modernweb.com/2013/04/08/phonegap-build-part4/"
+        "title": "Create Your First Mobile App with PhoneGap Build \u2013 Adding jQuery Mobile",
+        "url": "http://modernweb.com/2013/04/08/phonegap-build-part4/",
+        "archiveUrl": "https://web.archive.org/web/20160917213040/http://modernweb.com/2013/04/08/phonegap-build-part4/",
+        "date": "2013-04-08"
       },
       {
-        "title": "Create Your First Mobile App with PhoneGap Build – Connecting to an API",
-        "url": "http://modernweb.com/2013/03/29/create-your-first-mobile-app-part3/"
+        "title": "Create Your First Mobile App with PhoneGap Build \u2013 Connecting to an API",
+        "url": "http://modernweb.com/2013/03/29/create-your-first-mobile-app-part3/",
+        "archiveUrl": "https://web.archive.org/web/20140714003414/http://modernweb.com/2013/03/29/create-your-first-mobile-app-part3",
+        "date": "2013-03-29"
       },
       {
-        "title": "Create Your First Mobile App with PhoneGap Build – Using PhoneGap Build",
-        "url": "http://modernweb.com/2013/03/29/phonegap-build-part2/"
+        "title": "Create Your First Mobile App with PhoneGap Build \u2013 Using PhoneGap Build",
+        "url": "http://modernweb.com/2013/03/29/phonegap-build-part2/",
+        "archiveUrl": "https://web.archive.org/web/20140714004152/http://modernweb.com/2013/03/29/phonegap-build-part2/",
+        "date": "2013-03-29"
       },
       {
-        "title": "Create Your First Mobile App with PhoneGap Build – Setup",
-        "url": "http://modernweb.com/2013/03/29/phonegap-build-part1/"
+        "title": "Create Your First Mobile App with PhoneGap Build \u2013 Setup",
+        "url": "http://modernweb.com/2013/03/29/phonegap-build-part1/",
+        "archiveUrl": "https://web.archive.org/web/20140714003419/http://modernweb.com/2013/03/29/phonegap-build-part1",
+        "date": "2013-03-29"
       }
     ]
   },
@@ -772,27 +1008,38 @@
     "publications": [
       {
         "title": "Web designers become app developers with PhoneGap",
-        "url": "http://www.adobe.com/inspire/2013/11/web-designers-phonegap.html"
+        "url": "http://www.adobe.com/inspire/2013/11/web-designers-phonegap.html",
+        "archiveUrl": "https://web.archive.org/web/20151118050957/http://www.adobe.com/inspire/2013/11/web-designers-phonegap.html",
+        "date": "2013-11"
       },
       {
         "title": "Building responsive web designs with Adobe Edge Reflow",
-        "url": "http://www.adobe.com/inspire/2013/04/responsive-web-designs-edge-reflow.html"
+        "url": "http://www.adobe.com/inspire/2013/04/responsive-web-designs-edge-reflow.html",
+        "archiveUrl": "https://web.archive.org/web/20151104123517/http://www.adobe.com/inspire/2013/04/responsive-web-designs-edge-reflow.html",
+        "date": "2013-04"
       },
       {
         "title": "Getting started with responsive web design",
-        "url": "http://www.adobe.com/inspire/2013/02/responsive-web-design.html"
+        "url": "http://www.adobe.com/inspire/2013/02/responsive-web-design.html",
+        "archiveUrl": "https://web.archive.org/web/20130208054633/http://www.adobe.com/inspire/2013/02/responsive-web-design.html",
+        "date": "2013-02"
       },
       {
         "title": "Four cool features you can use with HTML5 today",
-        "url": "http://www.adobe.com/inspire/2012/10/web-standards-html5-today.html"
+        "url": "http://www.adobe.com/inspire/2012/10/web-standards-html5-today.html",
+        "date": "2012-10"
       },
       {
         "title": "Primer: How to take advantage of web standards",
-        "url": "http://www.adobe.com/inspire/2012/08/web-standards-primer.html"
+        "url": "http://www.adobe.com/inspire/2012/08/web-standards-primer.html",
+        "archiveUrl": "https://web.archive.org/web/20150223091257/http://www.adobe.com/inspire/2012/08/web-standards-primer.html",
+        "date": "2012-08"
       },
       {
         "title": "What are web standards and why should I care?",
-        "url": "http://www.adobe.com/newsletters/inspire/april2012/articles/article5/index.html"
+        "url": "http://www.adobe.com/newsletters/inspire/april2012/articles/article5/index.html",
+        "archiveUrl": "https://web.archive.org/web/20120323045650/http://www.adobe.com/newsletters/inspire/april2012/articles/article5/index.html?",
+        "date": "2012-03-23"
       }
     ]
   },
@@ -801,39 +1048,48 @@
     "publications": [
       {
         "title": "Axel Rauschmayer on ECMAScript 6 and the Future of JavaScript",
-        "url": "http://www.infoq.com/interviews/axel-rauschmayer-ecmascript-6"
+        "url": "https://www.infoq.com/interviews/axel-rauschmayer-ecmascript-6/",
+        "date": "2014-07"
       },
       {
         "title": "A Change in Leadership for Node.js",
-        "url": "http://www.infoq.com/news/2014/01/node-leadership-change"
+        "url": "https://www.infoq.com/news/2014/01/node-leadership-change/",
+        "date": "2014-01"
       },
       {
         "title": "Neal Ford on Giving Technical Presentations",
-        "url": "http://www.infoq.com/interviews/neal-ford-technical-presentations"
+        "url": "https://www.infoq.com/interviews/neal-ford-technical-presentations/",
+        "date": "2014-01"
       },
       {
         "title": "Andrew Betts on Developing for Mobile with HTML5",
-        "url": "http://www.infoq.com/interviews/andrew-betts-mobile-web"
+        "url": "https://www.infoq.com/interviews/andrew-betts-mobile-web/",
+        "date": "2014-01"
       },
       {
         "title": "Tom Dale on Ember and JavaScript Frameworks",
-        "url": "http://www.infoq.com/interviews/tom-dale-ember"
+        "url": "https://www.infoq.com/interviews/tom-dale-ember/",
+        "date": "2013-12"
       },
       {
         "title": "Google Announces Chrome Apps Improved Offline Capabilities & Mac Support",
-        "url": "http://www.infoq.com/news/2013/12/chrome-apps-mac"
+        "url": "https://www.infoq.com/news/2013/12/chrome-apps-mac/",
+        "date": "2013-12"
       },
       {
         "title": "Current Trends in NoSQL - Q&A with Peter Bell",
-        "url": "http://www.infoq.com/news/2013/11/nosql-trends"
+        "url": "https://www.infoq.com/news/2013/11/nosql-trends/",
+        "date": "2013-11"
       },
       {
         "title": "CodeCube Offers Shareable, Runnable Code Samples",
-        "url": "http://www.infoq.com/news/2013/10/codecube"
+        "url": "https://www.infoq.com/news/2013/10/codecube/",
+        "date": "2013-10"
       },
       {
         "title": "Backbone 1.1.0 Released, Includes Potential Incompatibility with 1.0",
-        "url": "http://www.infoq.com/news/2013/10/backbone-1.1.0-released"
+        "url": "https://www.infoq.com:443/news/2013/10/backbone-1.1.0-released",
+        "date": "2013-10"
       }
     ]
   },
@@ -842,43 +1098,63 @@
     "publications": [
       {
         "title": "Advanced Android development with Flex \"Hero\" and Flash Builder \"Burrito\"",
-        "url": "http://www.adobe.com/devnet/html5/articles/nodejs-command-line-tools-for-front-end-development.html"
+        "url": "http://www.adobe.com/devnet/html5/articles/nodejs-command-line-tools-for-front-end-development.html",
+        "archiveUrl": "https://web.archive.org/web/20130126100701/http://www.adobe.com/devnet/html5/articles/nodejs-command-line-tools-for-front-end-development.html",
+        "date": "2013-01-26"
       },
       {
         "title": "Create Android apps with Flex \"Hero\" and Flash Builder \"Burrito\"",
-        "url": "http://www.adobe.com/devnet/html5/articles/nodejs-command-line-tools-for-front-end-development.html"
+        "url": "http://www.adobe.com/devnet/html5/articles/nodejs-command-line-tools-for-front-end-development.html",
+        "archiveUrl": "https://web.archive.org/web/20130126100701/http://www.adobe.com/devnet/html5/articles/nodejs-command-line-tools-for-front-end-development.html",
+        "date": "2013-01-26"
       },
       {
         "title": "Getting Started with Adobe AIR for Android",
-        "url": "http://www.adobe.com/newsletters/edge/august2010/articles/article1/index.html"
+        "url": "http://www.adobe.com/newsletters/edge/august2010/articles/article1/index.html",
+        "archiveUrl": "https://web.archive.org/web/20100828074841/http://www.adobe.com/newsletters/edge/august2010/articles/article1/index.html",
+        "date": "2010-08"
       },
       {
         "title": "Object relational mapping in ColdFusion 9 and ColdFusion Builder",
-        "url": "http://www.adobe.com/newsletters/edge/april2010/articles/article6/index.html"
+        "url": "http://www.adobe.com/newsletters/edge/april2010/articles/article6/index.html",
+        "archiveUrl": "https://web.archive.org/web/20100423132656/http://www.adobe.com/newsletters/edge/april2010/articles/article6/index.html?",
+        "date": "2010-04"
       },
       {
         "title": "Tutorial: Build an Adobe AIR application using JavaScript",
-        "url": "http://www.adobe.com/newsletters/edge/february2010/articles/article5/index.html"
+        "url": "http://www.adobe.com/newsletters/edge/february2010/articles/article5/index.html",
+        "archiveUrl": "https://web.archive.org/web/20100220010303/http://www.adobe.com/newsletters/edge/february2010/articles/article5/index.html",
+        "date": "2010-02"
       },
       {
         "title": "A guide to Adobe developer groups and resources online",
-        "url": "http://www.adobe.com/newsletters/edge/october2009/articles/article4/index.html"
+        "url": "http://www.adobe.com/newsletters/edge/october2009/articles/article4/index.html",
+        "archiveUrl": "https://web.archive.org/web/20091011032646/http://www.adobe.com/newsletters/edge/october2009/articles/article4/index.html?",
+        "date": "2009-10"
       },
       {
         "title": "A beginner's guide to the Mate framework for Adobe Flex",
-        "url": "http://www.adobe.com/newsletters/edge/june2009/articles/article5/index.html"
+        "url": "http://www.adobe.com/newsletters/edge/june2009/articles/article5/index.html",
+        "archiveUrl": "https://web.archive.org/web/20100525084744/http://www.adobe.com/newsletters/edge/june2009/articles/article5/index.html",
+        "date": "2009-06"
       },
       {
         "title": "Build a personal productivity application with Adobe AIR",
-        "url": "http://www.adobe.com/newsletters/edge/february2009/articles/article2/index.html"
+        "url": "http://www.adobe.com/newsletters/edge/february2009/articles/article2/index.html",
+        "archiveUrl": "https://web.archive.org/web/20090223000023/http://www.adobe.com/newsletters/edge/february2009/articles/article2/index.html?",
+        "date": "2009-02"
       },
       {
         "title": "Comparing Adobe Flex and Ajax Development Models",
-        "url": "http://www.adobe.com/newsletters/edge/february2009/articles/article2/index.html"
+        "url": "http://www.adobe.com/newsletters/edge/february2009/articles/article2/index.html",
+        "archiveUrl": "https://web.archive.org/web/20090223000023/http://www.adobe.com/newsletters/edge/february2009/articles/article2/index.html?",
+        "date": "2009-02"
       },
       {
         "title": "Add dynamic content to your site with RSS and ColdFusion",
-        "url": "http://www.adobe.com/newsletters/edge/march2007/articles/article6/index.html"
+        "url": "http://www.adobe.com/newsletters/edge/march2007/articles/article6/index.html",
+        "archiveUrl": "https://web.archive.org/web/20070322224212/http://www.adobe.com/newsletters/edge/march2007/articles/article6/index.html",
+        "date": "2007-03"
       }
     ]
   },
@@ -887,27 +1163,39 @@
     "publications": [
       {
         "title": "Node.js command-line tools for front-end development",
-        "url": "http://www.adobe.com/devnet/html5/articles/nodejs-command-line-tools-for-front-end-development.html"
+        "url": "http://www.adobe.com/devnet/html5/articles/nodejs-command-line-tools-for-front-end-development.html",
+        "archiveUrl": "https://web.archive.org/web/20130126100701/http://www.adobe.com/devnet/html5/articles/nodejs-command-line-tools-for-front-end-development.html",
+        "date": "2013-01-26"
       },
       {
         "title": "HTML, CSS and JavaScript code editing with Edge Code",
-        "url": "http://www.adobe.com/devnet/edge-code/articles/code-editing-with-edge-code.html"
+        "url": "http://www.adobe.com/devnet/edge-code/articles/code-editing-with-edge-code.html",
+        "archiveUrl": "https://web.archive.org/web/20120925003202/http://www.adobe.com/devnet/edge-code/articles/code-editing-with-edge-code.html",
+        "date": "2012-09-25"
       },
       {
         "title": "Browser testing across devices with Adobe Edge Inspect",
-        "url": "http://www.adobe.com/devnet/edge-inspect/articles/browser-testing-across-devices-with-adobe-edge-inspect.html"
+        "url": "http://www.adobe.com/devnet/edge-inspect/articles/browser-testing-across-devices-with-adobe-edge-inspect.html",
+        "archiveUrl": "https://web.archive.org/web/20120925003150/http://www.adobe.com/devnet/edge-inspect/articles/browser-testing-across-devices-with-adobe-edge-inspect.html",
+        "date": "2012-09-25"
       },
       {
         "title": "Pseudo-classical object-oriented programming in JavaScript with Minion",
-        "url": "http://www.adobe.com/devnet/html5/articles/pseudo-classical-object-oriented-programming-in-javascript-with-minion.html"
+        "url": "http://www.adobe.com/devnet/html5/articles/pseudo-classical-object-oriented-programming-in-javascript-with-minion.html",
+        "archiveUrl": "https://web.archive.org/web/20120328200854/http://www.adobe.com/devnet/html5/articles/pseudo-classical-object-oriented-programming-in-javascript-with-minion.html",
+        "date": "2012-03-28"
       },
       {
         "title": "Metablog Monthly throughout 2011",
-        "url": "http://www.adobe.com/devnet/ria/newsletter/2011-11-themetablog.html"
+        "url": "http://www.adobe.com/devnet/ria/newsletter/2011-11-themetablog.html",
+        "archiveUrl": "https://web.archive.org/web/20121106073935/http://www.adobe.com/devnet/ria/newsletter/2011-11-themetablog.html",
+        "date": "2012-11-06"
       },
       {
         "title": "Creating Self-updating ColdFusion Builder Beta Extensions",
-        "url": "http://www.adobe.com/devnet/coldfusion/articles/cfbuilder_selfupdating_extension.html"
+        "url": "http://www.adobe.com/devnet/coldfusion/articles/cfbuilder_selfupdating_extension.html",
+        "archiveUrl": "https://web.archive.org/web/20191112081116/https://www.adobe.com/devnet/coldfusion/articles/cfbuilder_selfupdating_extension.html",
+        "date": "2019-11-12"
       }
     ]
   },
@@ -916,7 +1204,9 @@
     "publications": [
       {
         "title": "Breaking into a Front-end Development Career",
-        "url": "http://blog.onwardsearch.com/2012/11/breaking-in-to-a-front-end-development-career/"
+        "url": "http://blog.onwardsearch.com/2012/11/breaking-in-to-a-front-end-development-career/",
+        "archiveUrl": "https://web.archive.org/web/20121109060255/http://blog.onwardsearch.com/2012/11/breaking-in-to-a-front-end-development-career/",
+        "date": "2012-11"
       }
     ]
   },
@@ -925,7 +1215,8 @@
     "publications": [
       {
         "title": "Using Adobe Edge Tools and Services with Kendo UI",
-        "url": "http://www.kendoui.com/blogs/teamblog/posts/12-12-04/using_adobe_edge_tools_and_services_with_kendo_ui.aspx"
+        "url": "https://www.telerik.com/blogs/using-adobe-edge-tools-and-services-with-kendo-ui",
+        "date": "2012-12-05"
       }
     ]
   },
@@ -935,6 +1226,8 @@
       {
         "title": "Hello Mate! A Beginner's Guide to the Mate Flex Framework",
         "url": "http://www.flex-authority.com/issues/flex-and-air/hello-mate.cfm",
+        "archiveUrl": "https://web.archive.org/web/20090118072335/http://www.flex-authority.com/issues/flex-and-air/hello-mate.cfm",
+        "date": "2009-01-18",
         "note": "Vol. 1 Issue 1"
       }
     ]
@@ -944,16 +1237,21 @@
     "publications": [
       {
         "title": "Getting to Know Mr. Wizard",
+        "date": "2006",
         "note": "Vol. 2, Issue 4"
       },
       {
         "title": "What's Hot? What's Not? - What new ColdFusion 8 tags or features do you find indispensable, and why?",
         "url": "http://www.fusionauthority.com/quarterly/",
+        "archiveUrl": "https://web.archive.org/web/20060707023045/http://www.fusionauthority.com/quarterly/",
+        "date": "2006-07-07",
         "note": "Vol. 2, Issue 3"
       },
       {
         "title": "Cairngorm Crystallized: Examining the Cairngorm Microarchitecture from a Workflow Perspective",
         "url": "http://www.fusionauthority.com/quarterly/",
+        "archiveUrl": "https://web.archive.org/web/20060707023045/http://www.fusionauthority.com/quarterly/",
+        "date": "2006-07-07",
         "note": "Vol. 2, Issue 2"
       }
     ]
@@ -963,7 +1261,9 @@
     "publications": [
       {
         "title": "Adobe ColdFusion Just Got More RAD",
-        "url": "http://www.devarticles.com/c/a/ColdFusion/Adobe-ColdFusion-Just-Got-More-RAD/"
+        "url": "http://www.devarticles.com/c/a/ColdFusion/Adobe-ColdFusion-Just-Got-More-RAD/",
+        "archiveUrl": "https://web.archive.org/web/20090827105724/http://www.devarticles.com/c/a/ColdFusion/Adobe-ColdFusion-Just-Got-More-RAD/",
+        "date": "2009-08-27"
       }
     ]
   },
@@ -972,31 +1272,45 @@
     "publications": [
       {
         "title": "Elad Elrom Talks Flash...and the City",
-        "url": "http://www.fusionauthority.com/community/4799-elad-elrom-talks-flash-and-the-city.htm"
+        "url": "http://www.fusionauthority.com/community/4799-elad-elrom-talks-flash-and-the-city.htm",
+        "archiveUrl": "https://web.archive.org/web/20150402224152/http://www.fusionauthority.com/community/4799-elad-elrom-talks-flash-and-the-city.htm",
+        "date": "2015-04-02"
       },
       {
         "title": "An Interview with John Wilker of 360Conferences",
-        "url": "http://www.fusionauthority.com/community/4791-an-interview-with-john-wilker-of-360-conferences.htm"
+        "url": "http://www.fusionauthority.com/community/4791-an-interview-with-john-wilker-of-360-conferences.htm",
+        "archiveUrl": "https://web.archive.org/web/20091206012215/http://www.fusionauthority.com/community/4791-an-interview-with-john-wilker-of-360-conferences.htm",
+        "date": "2009-12-06"
       },
       {
         "title": "cf.Objective() 2008 Wrap-Up",
-        "url": "http://www.fusionauthority.com/news/4751-cf-objective-2008-wrap-up.htm"
+        "url": "http://www.fusionauthority.com/news/4751-cf-objective-2008-wrap-up.htm",
+        "archiveUrl": "https://web.archive.org/web/20080512220518/http://www.fusionauthority.com/news/4751-cf-objective-2008-wrap-up.htm",
+        "date": "2008-05-12"
       },
       {
         "title": "cf.Objective() - Day One",
-        "url": "http://www.fusionauthority.com/Community/4685-cf-Objective-Day-One.htm"
+        "url": "http://www.fusionauthority.com/Community/4685-cf-Objective-Day-One.htm",
+        "archiveUrl": "https://web.archive.org/web/20070509040631/http://www.fusionauthority.com/Community/4685-cf-Objective-Day-One.htm",
+        "date": "2007-05-09"
       },
       {
         "title": "cf.Objective() Day Two: May 5, 2007",
-        "url": "http://www.fusionauthority.com/Community/4686-cf-Objective-Day-Two-May-5-2007.htm"
+        "url": "http://www.fusionauthority.com/Community/4686-cf-Objective-Day-Two-May-5-2007.htm",
+        "archiveUrl": "https://web.archive.org/web/20070513181145/http://www.fusionauthority.com/Community/4686-cf-Objective-Day-Two-May-5-2007.htm",
+        "date": "2007-05-13"
       },
       {
         "title": "cf.Objective() Day Three: May 6, 2007",
-        "url": "http://www.fusionauthority.com/Community/4687-cf-Objective-Day-Three-May-6-2007.htm"
+        "url": "http://www.fusionauthority.com/Community/4687-cf-Objective-Day-Three-May-6-2007.htm",
+        "archiveUrl": "https://web.archive.org/web/20070514141714/http://www.fusionauthority.com/Community/4687-cf-Objective-Day-Three-May-6-2007.htm",
+        "date": "2007-05-14"
       },
       {
         "title": "Build a Code Generator in Five Easy Steps",
-        "url": "http://www.fusionauthority.com/Techniques/4657-Build-a-Code-Generator-in-Five-Easy-Steps.htm"
+        "url": "http://www.fusionauthority.com/Techniques/4657-Build-a-Code-Generator-in-Five-Easy-Steps.htm",
+        "archiveUrl": "https://web.archive.org/web/20070113125158/http://www.fusionauthority.com/Techniques/4657-Build-a-Code-Generator-in-Five-Easy-Steps.htm",
+        "date": "2007-01-13"
       }
     ]
   },
@@ -1005,11 +1319,15 @@
     "publications": [
       {
         "title": "Stopping Spam in Its Tracks...using CAPTCHA",
-        "url": "http://coldfusion.sys-con.com/read/236003.htm"
+        "url": "http://coldfusion.sys-con.com/read/236003.htm",
+        "archiveUrl": "https://web.archive.org/web/20060709224552/http://coldfusion.sys-con.com/read/236003.htm",
+        "date": "2006-07-09"
       },
       {
         "title": "Implementing a Nested Set Model in ColdFusion",
-        "url": "http://coldfusion.sys-con.com/read/42123.htm"
+        "url": "http://coldfusion.sys-con.com/read/42123.htm",
+        "archiveUrl": "https://web.archive.org/web/20080529033447/http://coldfusion.sys-con.com/read/42123.htm",
+        "date": "2008-05-29"
       }
     ]
   }
