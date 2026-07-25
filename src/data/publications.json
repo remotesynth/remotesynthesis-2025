@@ -86,11 +86,154 @@
     ]
   },
   {
+    "publisher": "LocalStack Blog",
+    "publications": [
+      {
+        "title": "Catch AWS Cost Issues Before They Ever Hit Your Pipeline",
+        "url": "https://blog.localstack.cloud/managing-cloud-costs-cloudburn/"
+      },
+      {
+        "title": "3 Things You Need to Know About LocalStack",
+        "url": "https://blog.localstack.cloud/3-things-to-know-about-localstack/"
+      },
+      {
+        "title": "AWS Deep Dives - Amazon SNS (Simple Notification Service)",
+        "url": "https://blog.localstack.cloud/aws-deep-dives-sns/"
+      },
+      {
+        "title": "Build Knowledge Graph Applications with LocalStack and TypeDB Extension",
+        "url": "https://blog.localstack.cloud/build-knowledge-graph-applications-localstack-typedb-extension/",
+        "coauthors": ["Harsh Mishra"]
+      },
+      {
+        "title": "AWS Deep Dives - SQS (Simple Queue Service)",
+        "url": "https://blog.localstack.cloud/aws-deep-dives-sqs/"
+      },
+      {
+        "title": "AWS Deep Dives - SES (Simple Email Service)",
+        "url": "https://blog.localstack.cloud/aws-deep-dives-ses/"
+      },
+      {
+        "title": "Is AWS's New Kiro IDE a Cursor Killer?",
+        "url": "https://blog.localstack.cloud/is-kiro-a-cursor-killer/"
+      },
+      {
+        "title": "3 Tips and Tricks for Using LocalStack with AWS",
+        "url": "https://blog.localstack.cloud/tips-and-tricks-localstack-aws/"
+      },
+      {
+        "title": "Step Functions Made Easy in AWS and LocalStack",
+        "url": "https://blog.localstack.cloud/aws-step-functions-made-easy/"
+      },
+      {
+        "title": "AWS CLI Made Easy with Amazon Q",
+        "url": "https://blog.localstack.cloud/aws-cli-made-easy-with-amazon-q/"
+      },
+      {
+        "title": "Serverless Best Practices with AWS Lambda PowerTools",
+        "url": "https://blog.localstack.cloud/serverless-best-practices-with-powertools/"
+      },
+      {
+        "title": "Getting Started with AWS for Frontend Developers",
+        "url": "https://blog.localstack.cloud/aws-for-frontend-devs/"
+      },
+      {
+        "title": "Take Your Local Testing to the Cloud with Ephemeral Instances",
+        "url": "https://blog.localstack.cloud/2024-08-28-ephemeral-instances/"
+      }
+    ]
+  },
+  {
     "publisher": "Bejamas Blog",
     "publications": [
       {
         "title": "Understanding Rendering in the Jamstack",
         "url": "https://bejamas.io/blog/understanding-rendering-in-the-jamstack/"
+      }
+    ]
+  },
+  {
+    "publisher": "LaunchDarkly Blog",
+    "publications": [
+      {
+        "title": "Modern DevOps: The Shift to Operating Continuously",
+        "url": "https://launchdarkly.com/blog/modern-devops-operating-continuously/"
+      },
+      {
+        "title": "5 Ways LaunchDarkly Outshines DIY Feature Flags",
+        "url": "https://launchdarkly.com/blog/5-ways-launchdarkly-outshines-diy-feature-flags/"
+      },
+      {
+        "title": "Beta testing programs: everything you need to know",
+        "url": "https://launchdarkly.com/blog/beta-testing-programs/"
+      },
+      {
+        "title": "Targeted experiences with LaunchDarkly and Amazon Cognito",
+        "url": "https://launchdarkly.com/blog/targeted-experiences-with-launchdarkly-and-amazon-cognito/"
+      },
+      {
+        "title": "A beginner's guide to targeting with feature flags",
+        "url": "https://launchdarkly.com/blog/beginners-guide-to-targeting-with-feature-flags/"
+      },
+      {
+        "title": "Managing Entitlements in LaunchDarkly",
+        "url": "https://launchdarkly.com/blog/managing-entitlements-in-launchdarkly/"
+      },
+      {
+        "title": "Connect (Almost) Anything to LaunchDarkly with Zapier",
+        "url": "https://launchdarkly.com/blog/connect-almost-anything-to-launchdarkly-with-zapier/"
+      },
+      {
+        "title": "How Near Instant Feature Flag Updates Ensure Your App Never Misses a Beat",
+        "url": "https://launchdarkly.com/blog/how-near-instant-feature-flag-updates-ensure-your-app/"
+      },
+      {
+        "title": "The Five Stages of Feature Flag Adoption",
+        "url": "https://launchdarkly.com/blog/the-five-stages-of-feature-flag-adoption/"
+      },
+      {
+        "title": "Feature Flags: Beyond the Boolean",
+        "url": "https://launchdarkly.com/blog/feature-flags-beyond-the-boolean/"
+      },
+      {
+        "title": "What to Expect When You're Expecting a LaunchDarkly SDK",
+        "url": "https://launchdarkly.com/blog/what-to-expect-launchdarkly-sdks/"
+      },
+      {
+        "title": "Handling Data at the Edge with Cloudflare Workers",
+        "url": "https://launchdarkly.com/blog/handling-data-at-the-edge-with-cloudflare-workers/"
+      },
+      {
+        "title": "5 Ways Astro Makes Building Web Apps Better",
+        "url": "https://launchdarkly.com/blog/5-things-that-make-astro-unique-for-building-web-apps/"
+      },
+      {
+        "title": "Wrapping LaunchDarkly",
+        "url": "https://launchdarkly.com/blog/wrapping-launchdarkly/"
+      },
+      {
+        "title": "Managing Feature Flags in Visual Studio Code",
+        "url": "https://launchdarkly.com/blog/managing-feature-flags-in-visual-studio-code/"
+      },
+      {
+        "title": "Getting Started with Svelte and LaunchDarkly",
+        "url": "https://launchdarkly.com/blog/getting-started-with-svelte-and-launchdarkly/"
+      },
+      {
+        "title": "Using LaunchDarkly with TypeScript",
+        "url": "https://launchdarkly.com/blog/using-launchdarkly-with-typescript/"
+      },
+      {
+        "title": "Flagging at the Edge: Combining LaunchDarkly with edge functions",
+        "url": "https://launchdarkly.com/blog/how-the-serverless-edge-functions-work/"
+      },
+      {
+        "title": "What's So Great About Next.js?",
+        "url": "https://launchdarkly.com/blog/whats-so-great-about-nextjs/"
+      },
+      {
+        "title": "What Are Feature Flags?",
+        "url": "https://launchdarkly.com/blog/what-are-feature-flags/"
       }
     ]
   },

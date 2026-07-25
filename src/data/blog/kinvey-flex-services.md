@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with Serverless Using Kinvey FlexServices"
 tags:
-    - kinvey
+    - serverless
     - javascript
 description: A guide to developing serverless functions within Kinvey.
 pubDatetime: 2018-04-18T10:23:31.210Z

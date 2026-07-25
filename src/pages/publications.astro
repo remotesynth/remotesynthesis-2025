@@ -9,6 +9,8 @@ import publicationsData from "@/data/publications.json";
 interface Publication {
   title: string;
   url?: string;
+  archiveUrl?: string;
+  date?: string;
   coauthors?: string[];
   type?: string;
   note?: string;
@@ -20,6 +22,32 @@ interface PublisherGroup {
 }
 
 const data = publicationsData as PublisherGroup[];
+
+function formatDate(date: string): string {
+  // Supports YYYY, YYYY-MM, YYYY-MM-DD
+  const parts = date.split("-").map(Number);
+  if (parts.length === 1) return String(parts[0]);
+  if (parts.length === 2) {
+    return new Date(parts[0], parts[1] - 1).toLocaleDateString("en-US", {
+      year: "numeric",
+      month: "short",
+    });
+  }
+  return new Date(parts[0], parts[1] - 1, parts[2]).toLocaleDateString(
+    "en-US",
+    {
+      year: "numeric",
+      month: "short",
+      day: "numeric",
+    }
+  );
+}
+
+function linkFor(pub: Publication): { href: string; archived: boolean } | null {
+  if (pub.archiveUrl) return { href: pub.archiveUrl, archived: true };
+  if (pub.url) return { href: pub.url, archived: false };
+  return null;
+}
 ---
 
 <Layout title={`Publications | ${SITE.title}`}>
@@ -36,39 +64,62 @@ const data = publicationsData as PublisherGroup[];
               {group.publisher}
             </h2>
             <ul class="space-y-2">
-              {group.publications.map(pub => (
-                <li class="pl-4 border-l-2 border-border">
-                  {pub.url ? (
-                    <a
-                      href={pub.url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      class="font-medium text-foreground hover:text-accent underline decoration-dashed underline-offset-4 decoration-muted-foreground hover:decoration-accent"
-                    >
-                      {pub.title}
-                    </a>
-                  ) : (
-                    <span class="font-medium">{pub.title}</span>
-                  )}
-                  {pub.type === "book" && (
-                    <span class="ml-2 text-xs px-2 py-0.5 bg-accent/10 text-accent rounded">
-                      Book
-                    </span>
-                  )}
-                  {pub.coauthors && pub.coauthors.length > 0 && (
-                    <span class="text-sm text-muted-foreground">
-                      {" "}
-                      — with {pub.coauthors.join(", ")}
-                    </span>
-                  )}
-                  {pub.note && (
-                    <span class="text-sm text-muted-foreground italic">
-                      {" "}
-                      ({pub.note})
-                    </span>
-                  )}
-                </li>
-              ))}
+              {group.publications.map(pub => {
+                const link = linkFor(pub);
+                return (
+                  <li class="pl-4 border-l-2 border-border">
+                    <div class="flex flex-wrap items-baseline gap-x-2 gap-y-1">
+                      {pub.date && (
+                        <time
+                          datetime={pub.date}
+                          class="shrink-0 text-sm tabular-nums text-muted-foreground"
+                        >
+                          {formatDate(pub.date)}
+                        </time>
+                      )}
+                      {link ? (
+                        <a
+                          href={link.href}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          class="font-medium text-foreground hover:text-accent underline decoration-dashed underline-offset-4 decoration-muted-foreground hover:decoration-accent"
+                        >
+                          {pub.title}
+                        </a>
+                      ) : (
+                        <span class="font-medium">{pub.title}</span>
+                      )}
+                      {pub.type === "book" && (
+                        <span class="text-xs px-2 py-0.5 bg-accent/10 text-accent rounded">
+                          Book
+                        </span>
+                      )}
+                      {link?.archived && (
+                        <span
+                          class="text-xs px-2 py-0.5 rounded bg-muted text-muted-foreground"
+                          title={
+                            pub.url
+                              ? `Original: ${pub.url}`
+                              : "Via Internet Archive"
+                          }
+                        >
+                          Archived
+                        </span>
+                      )}
+                      {pub.coauthors && pub.coauthors.length > 0 && (
+                        <span class="text-sm text-muted-foreground">
+                          — with {pub.coauthors.join(", ")}
+                        </span>
+                      )}
+                      {pub.note && (
+                        <span class="text-sm text-muted-foreground italic">
+                          ({pub.note})
+                        </span>
+                      )}
+                    </div>
+                  </li>
+                );
+              })}
             </ul>
           </section>
         ))

@@ -1,5 +1,23 @@
 [
   {
+    "month": "January 2026",
+    "presentations": [
+      {
+        "conference": "LocalStack Community Meetup",
+        "title": "Integrate WireMock into LocalStack for End-to-End Local Testing"
+      }
+    ]
+  },
+  {
+    "month": "January 2025",
+    "presentations": [
+      {
+        "conference": "LocalStack Community Meetup",
+        "title": "Serverless Best Practices with AWS Lambda Powertools"
+      }
+    ]
+  },
+  {
     "month": "October 2024",
     "presentations": [
       {

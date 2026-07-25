@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with Kinvey mBaaS - Pulling Data Anonymously"
 tags:
-    - kinvey
+    - serverless
 description: The very first step to getting started with the Kinvey mBaaS
 pubDatetime: 2017-12-19T10:23:31.210Z
 ---

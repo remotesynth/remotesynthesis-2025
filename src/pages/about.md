@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-Brian Rinaldi is a 25+ year veteran developer based in Boston, Massachusetts who currently leads the Developer Relations team at [LocalStack](https://localstack.cloud).
+Brian Rinaldi is a nearly 30 year veteran developer based in Boston, Massachusetts who currently leads the Developer Relations team at [LocalStack](https://localstack.cloud).
 
 ![Brian Rinaldi](public/myphoto.jpg)
 

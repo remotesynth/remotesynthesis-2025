@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with Kinvey mBaaS - A Simple Vue App"
 tags:
-    - kinvey
+    - serverless
 description: Converting the previous example to work in a Vue app
 pubDatetime: 2017-12-20T10:23:31.210Z
 ---
