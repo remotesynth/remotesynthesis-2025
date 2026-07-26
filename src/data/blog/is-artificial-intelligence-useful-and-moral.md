@@ -4,6 +4,7 @@ description: There are a ton of difficult questions to answer around generative 
 tags:
   - ai
 pubDatetime: 2025-04-13T10:23:31.210Z
+atUri: "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhla74co2t"
 ---
 
 There is no shortage of opinions on AI – so much so, that sharing another set of opinions seems like throwing a penny into a fountain filled with coins: it's a fleeting gesture soon to be rendered meaningless by others doing the same and burying yours.

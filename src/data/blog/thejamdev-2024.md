@@ -4,6 +4,7 @@ tags:
     - webdev
 description: We're less than a week away from the best event of the year. Ok, I'm biased, but take a look.
 pubDatetime: 2024-01-18T10:23:31.210Z
+atUri: "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlami5q2e"
 ---
 
 The web development, JavaScript and serverless tools and technologies move incredibly fast. It can be hard to keep up. Events have always played a role, not just in keeping me up-to-date and informed, but also getting me excited about what I can build. Those of you that know me know that I run a ton of events, and my biggest one each year since 2021 is [TheJam.dev](https://thejam.dev). This year's event is happening on January 24-25 from 11am-5pm ET (UTC -5). I know I'm biased but I think this is one of the best (if not the best) web development focused events of the year. Why?

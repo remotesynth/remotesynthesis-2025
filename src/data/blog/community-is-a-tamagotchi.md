@@ -4,6 +4,7 @@ tags:
     - devrel
 description: Many companies handle community wrong because they focus on outcomes over inputs. Here's some tips on how to think about community.
 pubDatetime: 2024-05-09T10:23:31.210Z
+atUri: "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlaih562m"
 ---
 
 Back in the mid-to-late-nineties, there was a toy released by by Bandai (at least in the US) called a Tamagotchi. It was reminiscent of the classic handheld games of the 80s with a monochrome LCD display that had very rudimentary graphics.

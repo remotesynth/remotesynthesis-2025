@@ -4,6 +4,7 @@ description: All good things must come to an end and so, most likely, must my an
 tags:
   - jamstack
 pubDatetime: 2024-01-15T10:23:31.210Z
+atUri: "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlaogk62m"
 ---
 
 This is my fourth year doing this update. Some of you may be wondering, "But Brian, didn't you already proclaim Jamstack dead?" Back in July, I did write a post titled "[Goodbye Jamstack](https://remotesynthesis.com/blog/goodbye-jamstack/)" in response to the end of the Jamstack Discord Community.

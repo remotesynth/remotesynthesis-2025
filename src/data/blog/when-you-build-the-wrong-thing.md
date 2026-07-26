@@ -4,6 +4,7 @@ tags:
     - ai
 description: AI makes it almost too simple to release stuff, which can, as in my case, lead to not enough preparation.
 pubDatetime: 2026-07-24T10:23:31.210Z
+atUri: "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhl7xtyn2q"
 ---
 
 For developers, AI has made it easy to build and release new projects. The code part, which, even when it wasn't difficult, was at least time-consuming, is now easy and relatively quick. This has led to a boom of micro-SaaS apps as the barriers for developers releasing their side projects have dramatically lowered.

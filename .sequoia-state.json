@@ -1,0 +1,116 @@
+{
+  "posts": {
+    "src/data/blog/when-you-build-the-wrong-thing.md": {
+      "contentHash": "0df7fc78f291d2618fc7db5f514f76d076a69059d3bd7fb9b2a10edbff051de2",
+      "atUri": "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhl7xtyn2q",
+      "lastPublished": "2026-07-26T13:14:22.869Z",
+      "slug": "when-you-build-the-wrong-thing"
+    },
+    "src/data/blog/introducting-devrelish.md": {
+      "contentHash": "5c29152d9b3273164f5152bcb1e8d9e8a7e7cf1bce1fe260fb907a2765da8d75",
+      "atUri": "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhl7z7tg2t",
+      "lastPublished": "2026-07-26T13:14:22.914Z",
+      "slug": "introducting-devrelish"
+    },
+    "src/data/blog/the-future-of-cfe.md": {
+      "contentHash": "629ee21a6880717bafa05a67a148869b6ad38d7eeb0a0b369d553c27e4ab4b66",
+      "atUri": "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhla2mzh27",
+      "lastPublished": "2026-07-26T13:14:22.962Z",
+      "slug": "the-future-of-cfe"
+    },
+    "src/data/blog/9-years-of-cfe.md": {
+      "contentHash": "444d55e6fab01cbba5d76515e0c3f645d109b82ca3edc4d53445fd7b8b0c27ac",
+      "atUri": "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhla43yy24",
+      "lastPublished": "2026-07-26T13:14:23.006Z",
+      "slug": "9-years-of-cfe"
+    },
+    "src/data/blog/migrating-from-arc-to-zen.md": {
+      "contentHash": "527cc554ba5e07c2cc92fc3e1a4f29bbf4317ba500e2db0b5cdf96cf5d1fb48b",
+      "atUri": "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhla5iny2e",
+      "lastPublished": "2026-07-26T13:14:23.054Z",
+      "slug": "migrating-from-arc-to-zen"
+    },
+    "src/data/blog/is-artificial-intelligence-useful-and-moral.md": {
+      "contentHash": "1588604f151b70a355311a0db3515cf9543fd1463d39b29266a1677d46438a26",
+      "atUri": "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhla74co2t",
+      "lastPublished": "2026-07-26T13:14:23.107Z",
+      "slug": "is-artificial-intelligence-useful-and-moral"
+    },
+    "src/data/blog/your-devrel-questions-answered.md": {
+      "contentHash": "5fd746ac6a69f217a219a60ed1e68b06596034a6923cc1de75ea5c97629c2ffd",
+      "atUri": "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlaahrb2x",
+      "lastPublished": "2026-07-26T13:14:23.151Z",
+      "slug": "your-devrel-questions-answered"
+    },
+    "src/data/blog/people-over-pay.md": {
+      "contentHash": "5303bbe16264753ec4984d6bc00515b532f3edf0a9d3e67f9ae319bfea5eebfd",
+      "atUri": "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlabsao2t",
+      "lastPublished": "2026-07-26T13:14:23.193Z",
+      "slug": "people-over-pay"
+    },
+    "src/data/blog/bizarro-world.md": {
+      "contentHash": "c8ddf5c4a23aa7295d6d97b7df5cca7a64d0d2ed048dc110a64f556bd73f1cee",
+      "atUri": "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlad5da2e",
+      "lastPublished": "2026-07-26T13:14:23.241Z",
+      "slug": "bizarro-world"
+    },
+    "src/data/blog/2025-predictions-for-tech.md": {
+      "contentHash": "5c5c73243bb93b076bad3f6190fa20c5ac92e067268da79b8a256bbed19e947c",
+      "atUri": "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlaei6o2t",
+      "lastPublished": "2026-07-26T13:14:23.282Z",
+      "slug": "2025-predictions-for-tech"
+    },
+    "src/data/blog/reviewing-2024-predictions.md": {
+      "contentHash": "1b85a73b89ea16ea55ad3301a5ddb67fe44ea530cd8091d1ee6a9bdf1e77efc2",
+      "atUri": "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlafrux2o",
+      "lastPublished": "2026-07-26T13:14:23.325Z",
+      "slug": "reviewing-2024-predictions"
+    },
+    "src/data/blog/2024-year-in-review.md": {
+      "contentHash": "cdbc2e77c3e84a3293231b52f7c527a834366a87c6c066bdd56bb4de4653e8a2",
+      "atUri": "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlah6dy23",
+      "lastPublished": "2026-07-26T13:14:23.369Z",
+      "slug": "2024-year-in-review"
+    },
+    "src/data/blog/community-is-a-tamagotchi.md": {
+      "contentHash": "55048471e9b25d204aef6a573aa735e1fe33b5511e963dc0bf10e147035458b8",
+      "atUri": "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlaih562m",
+      "lastPublished": "2026-07-26T13:14:23.412Z",
+      "slug": "community-is-a-tamagotchi"
+    },
+    "src/data/blog/navigaitng-frontend-buzzwords.md": {
+      "contentHash": "4b25ff41ba850ab8faccc96feed81a2d06b923b7167ad5baca237b1eae55cf67",
+      "atUri": "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlajryi25",
+      "lastPublished": "2026-07-26T13:14:23.455Z",
+      "slug": "navigaitng-frontend-buzzwords"
+    },
+    "src/data/blog/jamstacked-new-home.md": {
+      "contentHash": "c4fd5dcc68aa4c5f35a3441bc74a97f2135050d6909481c5fece597ace247b3a",
+      "atUri": "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlal63u2u",
+      "lastPublished": "2026-07-26T13:14:23.499Z",
+      "slug": "jamstacked-new-home"
+    },
+    "src/data/blog/thejamdev-2024.md": {
+      "contentHash": "108be6f6c86a6ff04e998e8ac912fe3d6d9c2de2e1215fe753445755465a519e",
+      "atUri": "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlami5q2e",
+      "lastPublished": "2026-07-26T13:14:23.541Z",
+      "slug": "thejamdev-2024"
+    },
+    "src/data/blog/jamstack-in-2024.md": {
+      "contentHash": "d4a8351c1781ac56a4b9134cd810aa1bae733b9a38e88e6e9aee83ccd54a3e4f",
+      "atUri": "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlaogk62m",
+      "lastPublished": "2026-07-26T13:14:23.606Z",
+      "slug": "jamstack-in-2024"
+    },
+    "src/data/blog/2024-predictons-for-developers.md": {
+      "contentHash": "8bfc441348c7256100bc3b2ac717d30190ea67d4ddba173573175571c5d950a0",
+      "atUri": "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlaptv22n",
+      "lastPublished": "2026-07-26T13:14:23.652Z",
+      "slug": "2024-predictons-for-developers"
+    }
+  },
+  "publication": {
+    "cid": "bafyreibbw7d5evaufnwxiwfqntuxrq7jnffoic7x5ku5juiyq76cafjbvm",
+    "uri": "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.publication/3mrkhkqm37y2k"
+  }
+}

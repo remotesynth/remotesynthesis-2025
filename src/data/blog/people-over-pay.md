@@ -4,6 +4,7 @@ tags:
     - general
 description: Focus on the people you'll work with and for over specific salary goals, title or working on/with a cool product.
 pubDatetime: 2025-02-12T10:23:31.210Z
+atUri: "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlabsao2t"
 ---
 
 One of the perspectives you gain after a long career is one of hindsight. After more than 25 years in the tech industry working as both a developer and developer advocate for (too) many companies, it's much easier to look back and see patterns of when I made the right career move and when I made the wrong one.

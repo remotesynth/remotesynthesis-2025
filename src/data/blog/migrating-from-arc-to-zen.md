@@ -4,6 +4,7 @@ tags:
     - general
 description: I'm switching browsers due to The Browser Company's recently announced change in direction. Here's some migration tips I encountered switching from Arc to Zen.
 pubDatetime: 2025-06-22T10:23:31.210Z
+atUri: "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhla5iny2e"
 ---
 
 I was a fairly early adopter of the Arc browser shortly after it was released in 2022. I was initially drawn in by some of the extremely simple conveniences like the simplified tab maintenance and easy URL copy shortcuts. Many of these were minor improvements but, considering how much time I spend in the browser, they had real quality-of-life type impacts on my day-to-day.

@@ -4,6 +4,7 @@ tags:
     - general
 description: Reflecting on trying to go through the normal day to day while the world burns around you.
 pubDatetime: 2025-01-29T10:23:31.210Z
+atUri: "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlad5da2e"
 ---
 
 I am currently reading "[Thinking Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)" by Daniel Kahneman and among the many, many takeaways that I have from this book (really, go read it!) is that the human mind is optimized for pattern recognition. In most cases, this serves us well, allowing us to make quick decisions with impressive accuracy, but also can go wrong – particularly when we encounter something abnormal that doesn't fit our predefined patterns. In those cases, we can tend towards normalizing the abnormal.

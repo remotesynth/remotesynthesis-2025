@@ -6,6 +6,7 @@ tags:
   - webdev
   - javascript
 pubDatetime: 2024-04-30T10:23:31.210Z
+atUri: "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlajryi25"
 ---
 
 Technical concepts are, by nature, complex and difficult to describe. While developer love to hate buzzwords or jargon, they can serve as very useful shorthand for people "in the know" that simplifies discussing complex concepts by encapsulating them into a single term. They can even help us organize and categorize concepts.

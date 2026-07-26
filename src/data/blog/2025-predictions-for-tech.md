@@ -4,6 +4,7 @@ description: If you are looking to have your spirit lifted, you came to the wron
 tags:
   - general
 pubDatetime: 2025-01-11T10:23:31.210Z
+atUri: "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlaei6o2t"
 ---
 
 There is obviously no magic to making predictions, but, at their core, predictions are based upon taking your core worldview and extrapolating that out into potential outcomes. Or at least the bold predictions are.

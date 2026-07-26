@@ -4,6 +4,7 @@ description: All things must come to an end, I suppose, and so it is with CFE.de
 tags:
   - general
 pubDatetime: 2025-09-21T10:23:31.210Z
+atUri: "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhla2mzh27"
 ---
 
 I won't bury the lead here. Putting a title like "The Future of..." is usually the prelude to a post about the end of something and so it is. After [9+ years of CFE.dev](https://remotesynthesis.com/blog/9-years-of-cfe/), I have decided it's time to let it go at the end of this year. This week's [CodeWord Conference](https://cfe.dev/events/codeword-conf-2025/) and [PixelPalooza](https://cfe.dev/events/pixelpalooza-2025/) in November will be the final new events hosted on the site. I hope that you'll join me at those!

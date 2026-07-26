@@ -4,6 +4,7 @@ description: Yeah, I'm pushing a decade of running CFE, which is crazy. Here's t
 tags:
   - general
 pubDatetime: 2025-09-07T10:23:31.210Z
+atUri: "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhla43yy24"
 ---
 
 The [first CFE virtual meetup](https://cfe.dev/events/javascript-2017/) happened a little over 9 years ago in August of 2017 under the name Certified Fresh Events (CFE). Yes, 9. Including that first event and as of the end of July in 2025, CFE has hosted 236 events/shows (approximately, as I don't track these but did my best to count them) including:

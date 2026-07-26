@@ -4,6 +4,7 @@ tags:
     - general
 description: I wasn't bold and nonetheless I didn't do great. Sheesh.
 pubDatetime: 2025-01-05T10:23:31.210Z
+atUri: "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlafrux2o"
 ---
 
 2025 is a hard year to predict. This is partly because 2024 brought a lot of things that made me question my own ability to make predictions. I heard someone say that 2024 was the year that the worst people in the world got everything they ever wanted and boy does that feel accurate.

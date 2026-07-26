@@ -5,6 +5,7 @@ tags:
   - jamstack
   - general
 pubDatetime: 2024-01-21T10:23:31.210Z
+atUri: "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlal63u2u"
 ---
 
 As some of you may know, I've been writing the [Jamstacked](https://jamstack.email) newsletter for almost 3 years. Originally it was intended to be focused on Jamstack, but, even as that term has lost importance, it's continued to publish a lightly opinionated set of links around things like JavaScript frameworks, static site generators, serverless, APIs and integrations and deployment platforms as well as general web development and JavaScript. The most recent edition noted that the newsletter is moving on from its publisher Cooper Press and I am making it a part of my [CFE.dev](https://cfe.dev) community. Here's the details as published in the [most recent issue](https://cfe.dev/jamstacked/96/):

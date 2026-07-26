@@ -4,6 +4,7 @@ tags:
   - devrel
 description: Announcing a new, free and open source site for hosting in-real-life gatherings for niche tech communities.
 pubDatetime: 2026-04-19T10:23:31.210Z
+atUri: "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhl7z7tg2t"
 ---
 
 It feels like it's becoming ever more difficult to make real connections in our industry. Most of us have very little, if any, budget for attending conferences, and many community-focused events have called it quits. Some local gatherings still exist, but many have shuttered. What remains of both conferences and gatherings seems dominated by branded events focused on pushing the narrative of a big tech corporation.

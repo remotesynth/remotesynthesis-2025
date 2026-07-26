@@ -4,6 +4,7 @@ description: Welcome to my hot takes on DevRel where I share all my spicy opinio
 tags:
   - devrel
 pubDatetime: 2025-03-19T10:23:31.210Z
+atUri: "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlaahrb2x"
 ---
 
 I don't mean "finally" as in you've been waiting for these answers (chances are you haven't) but rather that these are the final answers. There is no chance that someone else's view on these topics are more correct than mine. They should be considered closed.

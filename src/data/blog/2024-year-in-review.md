@@ -4,6 +4,7 @@ description: 2024 was filled with challenges, but also some exciting moments.
 tags:
   - general
 pubDatetime: 2025-01-01T10:23:31.210Z
+atUri: "at://did:plc:56ek3ps3dttt2ui3cwdmmuxe/site.standard.document/3mrkhlah6dy23"
 ---
 
 2024 has been...uh...interesting. I hesitate to call it a good year (for me) as it presented a ton of personal and professional challenges, but everyone I love is safe and healthy and that counts for a lot.
