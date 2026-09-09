@@ -15,7 +15,7 @@ As Allen Helton recently noted:
 > 
 > Source: PSA: [That probably doesn’t need to be SaaS](https://www.readysetcloud.io/blog/allen.helton/that-probably-doesnt-need-to-be-saas/)
 
-Lowering the burden of building these apps in many ways reduces risk, because the cost of failure is just a bit of time and tokens. Cory Doctorow talks about this very issue in his new book "[The Reverse Centaur's Guide to Life After AI](The Reverse Centaur's Guide to Life After AI](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/)" as it relates to recommendation letters for law schools:
+Lowering the burden of building these apps in many ways reduces risk, because the cost of failure is just a bit of time and tokens. Cory Doctorow talks about this very issue in his new book "[The Reverse Centaur's Guide to Life After AI](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/)" as it relates to recommendation letters for law schools:
 
 > The fact that a professor sat down and wrote their own paragraphs of stilted puffery on behalf of a student used to convey something about the prof's estimation of the candidate, because no one would do such tedious work for a bad student.
 
