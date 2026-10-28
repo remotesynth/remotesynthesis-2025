@@ -1,5 +1,14 @@
 [
   {
+    "month": "October 2026",
+    "presentations": [
+      {
+        "conference": "Web Unleashed 2026",
+        "title": "Your AI Just Deleted Prod (And Other AWS Serverless Horror Stories)"
+      }
+    ]
+  },
+  {
     "month": "January 2026",
     "presentations": [
       {
